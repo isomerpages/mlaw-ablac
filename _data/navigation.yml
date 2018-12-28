@@ -1,0 +1,58 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: About Us
+  url: /about-us/what-we-do/
+  sub-links:
+  - title: What We Do
+    url: /about-us/what-we-do/
+  - title: Our Vision And Mission
+    url: /about-us/our-vision-and-mission/
+  - title: Our History
+    url: /about-us/our-history/
+  - title: Organisation Structure
+    url: /about-us/organisation-structure/
+- title: Legislation
+  url: /legislation/land-acquistion-act/
+  sub-links:
+  - title: Land Acquistion Act
+    url: /legislation/land-acquistion-act/
+  - title: Land Acquisition
+    url: /legislation/land-acquisition/
+  - title: Practice Directions
+    url: /legislation/practice-directions/
+- title: Service
+  url: /service/hearing-of-appeal/
+  sub-links:
+  - title: Hearing Of Appeal
+    url: /service/hearing-of-appeal/
+  - title: Pre-Hearing Conference
+    url: /service/pre-hearing-conference/
+  - title: ePre-Hearing Conference
+    url: /service/e-pre-hearing-conference/
+  - title: Digital Transcription Services
+    url: /service/digital-transcription-services/
+  - title: Processing Of Court Documents
+    url: /service/processing-of-court-documents/
+  - title: Mediation In Land Acquisition Appeals Scheme
+    url: /service/mediation-in-land-acquisition-appeals-scheme/
+  - title: Sale Of Past Decisions
+    url: /service/sale-of-past-decisions/
+  - title: Fees
+    url: /service/fees/
+- title: Hearings And Decisions
+  url: /hearings-and-decisions/hearing-list/
+  sub-links:
+  - title: Hearing List
+    url: /hearings-and-decisions/hearing-list/
+  - title: Pre-Hearing Conference
+    url: /hearings-and-decisions/pre-hearing-conference/
+  - title: Past Decisions
+    url: /hearings-and-decisions/pastdecisions/
+- title: forms
+  url: /forms/
+- title: Faq
+  url: /faq/
