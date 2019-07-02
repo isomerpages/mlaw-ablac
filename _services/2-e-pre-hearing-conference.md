@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: E Pre Hearing Conference
+title: e-Pre-Hearing Conference
 permalink: /services/e-pre-hearing-conference/
-breadcrumb: E Pre Hearing Conference
+breadcrumb: e-Pre-Hearing Conference
 collection_name: service
 
 ---
