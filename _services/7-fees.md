@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Fees
-permalink: /service/fees/
+permalink: /services/fees/
 breadcrumb: Fees
 collection_name: services
 
