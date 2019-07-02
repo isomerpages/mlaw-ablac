@@ -17,7 +17,7 @@ Supreme Court Building Level 2M<br>
 Singapore 178879<br>
 
 **Contact Numbers:**
-Tel: (65) 6332 3906 \ 6332 5237 
+Tel: (65) 6332 3906 \ 6332 5237<br>
 Fax: (65) 6883 0530
 
 Email: [ab_enquiry@ab.gov.sg](ab_enquiry@ab.gov.sg) or [ab_ephc@ab.gov.sg](ab_ephc@ab.gov.sg)
