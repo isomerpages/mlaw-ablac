@@ -56,8 +56,28 @@
   url: /forms/
 - title: Faqs
   url: /faqs/
-    sub-links:
+  sub-links:
   - title: Types of Cases
+    url: /faqs/types-of-cases/
+  - title: Procedure of Appeal
+    url: /faqs/types-of-cases/
+  - title: Appeal Deposit
+    url: /faqs/types-of-cases/
+  - title: Pre-Hearing Conference
+    url: /faqs/types-of-cases/
+  - title: Hearing of the Appeal
+    url: /faqs/types-of-cases/
+  - title: Costs of Appeal
+    url: /faqs/types-of-cases/
+  - title: Appeal Against A Decision of the Appeals Board
+    url: /faqs/types-of-cases/
+  - title: Withdrawal of Appeal
+    url: /faqs/types-of-cases/
+  - title: Miscellaneous
+    url: /faqs/types-of-cases/
+  - title: Matters to be disregarded in determining compensation
+    url: /faqs/types-of-cases/
+  - title: Matters to be considered in determining compensation
     url: /faqs/types-of-cases/
 - title: Glossary
   url: /glossary/
