@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Past Decisions
+title: List All
 permalink: /hearings-and-decisions/past-decision/list-all/
-breadcrumb: Past Decisions
+breadcrumb: List All
 collection_name: hearings-and-decisions
 ---
 
