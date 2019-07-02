@@ -48,4 +48,8 @@ collections:
     output: true
   hearings-and-decisions:
     output: true
+  forms:
+    output: true
+  faqs:
+    output: true
 resources_name: resource-room
