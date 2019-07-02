@@ -44,8 +44,6 @@ collections:
     output: true
   legislation:
     output: true
-  services:
-    output: true
   hearings-and-decisions:
     output: true
   forms:
