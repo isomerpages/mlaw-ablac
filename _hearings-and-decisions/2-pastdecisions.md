@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Pastdecisions
+title: Past Decisions
 permalink: /hearings-and-decisions/pastdecisions/
-breadcrumb: Pastdecisions
+breadcrumb: Past Decisions
 collection_name: hearings-and-decisions
 ---
 
@@ -29,7 +29,7 @@ List All
     <td>AB 2018.003</td>
     <td>Oei Choon Guan Ernie</td>
     <td>18 Apr 2019</td>
-    <td><a href="/files/AB2018.003-OeiChoonGuanErnie18Apr19.pdf"></td>
+    <td><a href="/files/AB2018.003-OeiChoonGuanErnie18Apr19.pdf"></a></td>
   </tr>
   <tr>
     <td>Case Law</td>
