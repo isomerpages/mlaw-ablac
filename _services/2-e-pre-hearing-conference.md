@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: e-Pre-Hearing Conference
 permalink: /services/e-pre-hearing-conference/
 breadcrumb: e-Pre-Hearing Conference
-collection_name: service
+collection_name: services
 
 ---
 
