@@ -54,5 +54,7 @@
     url: /hearings-and-decisions/pastdecisions/
 - title: forms
   url: /forms/
-- title: Faq
+- title: Faqs
   url: /faq/
+- title: Glossary
+  url: /glossary/
