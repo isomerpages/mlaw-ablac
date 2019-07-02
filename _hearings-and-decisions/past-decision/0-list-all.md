@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Past Decisions
-permalink: /hearings-and-decisions/pastdecisions/
+permalink: /hearings-and-decisions/past-decision/list-all/
 breadcrumb: Past Decisions
 collection_name: hearings-and-decisions
 ---
