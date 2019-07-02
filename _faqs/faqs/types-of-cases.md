@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
-title: Forms
-permalink: /forms/
-breadcrumb: Forms
-collection_name: Forms
+title: Types of Cases
+permalink: /faqs/types-of-cases/
+breadcrumb: Types of Cases
+collection_name: faqs
 ---
 
 Types of Cases
