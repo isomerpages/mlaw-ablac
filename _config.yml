@@ -52,4 +52,6 @@ collections:
     output: true
   faqs:
     output: true
+  glossary:
+    output: true
 resources_name: resource-room
