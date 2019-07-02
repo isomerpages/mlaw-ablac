@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Hearing Of Appeal
-permalink: /service/hearing-of-appeal/
+permalink: /services/hearing-of-appeal/
 breadcrumb: Hearing Of Appeal
-collection_name: service
+collection_name: services
 
 ---
 
