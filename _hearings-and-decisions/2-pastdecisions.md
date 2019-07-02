@@ -157,7 +157,7 @@ List All
     <td>4 Aug 2005</td>
     <td><a href="/files/Decision-JurongTownCorporation-AB2004.042.pdf"></a></td>
   </tr>
-</table>
+</table><br>
 
 
   <div class="pagination">
