@@ -29,24 +29,24 @@
     url: /legislation/practice-directions/
     
 - title: Services
-  url: /service/hearing-of-appeal/
+  url: /services/hearing-of-appeal/
   sub-links:
   - title: Hearing Of Appeal
-    url: /service/hearing-of-appeal/
+    url: /services/hearing-of-appeal/
   - title: Pre-Hearing Conference
-    url: /service/pre-hearing-conference/
+    url: /services/pre-hearing-conference/
   - title: ePre-Hearing Conference
-    url: /service/e-pre-hearing-conference/
+    url: /services/e-pre-hearing-conference/
   - title: Digital Transcription Services
-    url: /service/digital-transcription-services/
+    url: /services/digital-transcription-services/
   - title: Processing Of Court Documents
-    url: /service/processing-of-court-documents/
+    url: /services/processing-of-court-documents/
   - title: Mediation In Land Acquisition Appeals Scheme
-    url: /service/mediation-in-land-acquisition-appeals-scheme/
+    url: /services/mediation-in-land-acquisition-appeals-scheme/
   - title: Sale Of Past Decisions
-    url: /service/sale-of-past-decisions/
+    url: /services/sale-of-past-decisions/
   - title: Fees
-    url: /service/fees/
+    url: /services/fees/
 
 - title: Hearings And Decisions
   url: /hearings-and-decisions/hearing-list/
