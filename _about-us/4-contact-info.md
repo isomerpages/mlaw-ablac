@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Contact Us
-permalink: /about-us/contact-us/
-breadcrumb: Contact Us
+title: Contact Info
+permalink: /about-us/contact-info/
+breadcrumb: Contact info
 collection_name: about-us 
 
 ---
