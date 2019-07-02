@@ -17,15 +17,17 @@
     url: /about-us/organisation-structure/
   - title: Contact Us
     url: /about-us/contact-us/
+    
 - title: Legislation
   url: /legislation/land-acquistion-act/
   sub-links:
   - title: Land Acquistion Act
     url: /legislation/land-acquistion-act/
-  - title: Land Acquisition
-    url: /legislation/land-acquisition/
+  - title: Land Acquisition (Appeals Board) Regulations
+    url: /legislation/land-acquisition--appeals-board--regulations/
   - title: Practice Directions
     url: /legislation/practice-directions/
+    
 - title: Service
   url: /service/hearing-of-appeal/
   sub-links:
