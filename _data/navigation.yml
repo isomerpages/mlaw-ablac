@@ -56,5 +56,8 @@
   url: /forms/
 - title: Faqs
   url: /faqs/
+    sub-links:
+  - title: Types of Cases
+    url: /faqs/types-of-cases/
 - title: Glossary
   url: /glossary/
