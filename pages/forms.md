@@ -1,5 +1,5 @@
 ---
-layout: simple-page
+layout: leftnav-page-content
 title: Forms
 permalink: /forms/
 breadcrumb: Forms
