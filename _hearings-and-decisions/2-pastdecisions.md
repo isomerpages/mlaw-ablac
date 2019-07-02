@@ -22,7 +22,7 @@ List All
     <td>AB 2012.036</td>
     <td>YCH Distripark Pte. Ltd.</td>
     <td>16 May 2019</td>
-    <td></td>
+    <td><a href="/files/AB2012.036-YCHDistriparkPte.Ltd.16May2019.pdf"></a></td>
   </tr>
   <tr>
     <td>Case Law</td>
