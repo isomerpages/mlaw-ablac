@@ -9,7 +9,6 @@ collection_name: faqs
 Timeline
 ---
 #### **1. Collector makes Award**
-<br>
 The Collector makes an award of:
  * the area of the land;
  * the compensation which in his opinion should be allowed for the land; and
@@ -23,8 +22,7 @@ The Collector makes a written offer of the compensation to the persons intereste
 <br>
 See [section 40(1)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr40-#pr40-). 
 <br>
-##### **2. Within 14 days**
-<br>
+#### 2. Within 14 days
 **Appellant lodges with Registrar the Notice of Appeal**
 
  
