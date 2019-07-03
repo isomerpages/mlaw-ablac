@@ -17,7 +17,7 @@ The factors which shall not be taken into consideration have been set out in sec
    <br>
    In determining the amount of compensation to be awarded for land acquired under this Act, the Board shall not take into consideration —
 <br>
-   (a)     the degree of urgency which has led to the acquisition;
+    (a)     the degree of urgency which has led to the acquisition;
    <br>
    (b)    any disinclination of the person interested to part with the land acquired;
   * (c)    any damage sustained by the person interested which, if caused by a private person, would not be a good cause of action;
