@@ -26,11 +26,11 @@ These explanatory notes may help to explain some of the expressions used on this
   </tr>
   <tr>
     <td>Assessor</td>
-    <td>An assessor is a member of the panel of assessors appointed by the Minister under section 26 <br>of LAA.</td>
+    <td>An assessor is a member of the panel of assessors appointed by the Minister under section 26 of LAA.</td>
   </tr>
   <tr>
     <td>Award</td>
-    <td>An award is a decision of the Collector made after holding an <br>inquiry under section 10 of LAA.<br><br><br>It is in writing signed by him and decides (a) the area of the land, (b) the compensation which in his opinion should be allowed for the <br>land, and (c) the apportionment of the compensation among all the persons interested.</td>
+    <td>An award is a decision of the Collector made after holding an inquiry under section 10 of LAA.<br><br><br>It is in writing signed by him and decides (a) the area of the land, (b) the compensation which in his opinion should be allowed for the <br>land, and (c) the apportionment of the compensation among all the persons interested.</td>
   </tr>
   <tr>
     <td>Board</td>
@@ -38,19 +38,19 @@ These explanatory notes may help to explain some of the expressions used on this
   </tr>
   <tr>
     <td>Appeal</td>
-    <td>Where land is acquired under LAA and the Collector has made an <br>award any person interested may appeal against the award subject<br>to section 23 of LAA. The appeal will be heard by the Board.</td>
+    <td>Where land is acquired under LAA and the Collector has made an award any person interested may appeal against the award subject<br>to section 23 of LAA. The appeal will be heard by the Board.</td>
   </tr>
   <tr>
     <td>Past <br>Decisions</td>
-    <td>These are decisions in appeals previously heard and decided by <br>the Board.</td>
+    <td>These are decisions in appeals previously heard and decided by the Board.</td>
   </tr>
   <tr>
     <td>Collector</td>
-    <td>Collector means any officer of the Singapore Land Authority or any <br>public officer appointed by the Minister to be a Collector of Land<br>Revenue.<br><br><br>It is the Collector who takes proceedings for the acquisition of land <br>under LAA and who makes an award after holding an inquiry.</td>
+    <td>Collector means any officer of the Singapore Land Authority or any public officer appointed by the Minister to be a Collector of Land Revenue.<br><br><br>It is the Collector who takes proceedings for the acquisition of land under LAA and who makes an award after holding an inquiry.</td>
   </tr>
   <tr>
     <td>Commissioner</td>
-    <td>Commissioner means the Commissioner of Appeals appointed by<br> the President under section 19(2) of LAA. He presides at the hearing of an appeal.</td>
+    <td>Commissioner means the Commissioner of Appeals appointed by the President under section 19(2) of LAA. He presides at the hearing of an appeal.</td>
   </tr>
   <tr>
     <td>Compensation</td>
