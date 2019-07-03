@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Landmark Case
-permalink: /hearings-and-decisions/past-decision/landmark-case/
+permalink: /hearings-and-decisions/landmark-case/
 breadcrumb: Landmark Case
 collection_name: hearings-and-decisions
 second_nav_title: "Past Decisions"
