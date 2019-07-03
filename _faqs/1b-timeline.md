@@ -72,7 +72,7 @@ Except with the consent of the Board, the Appellant may not rely on any grounds 
 
 See [section 23(4)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr23-#pr23-). 
 
-* Download form for [Petition of Appeal (Form 7)](/files/Form-POA-Sept09.pdf)
+* Download form for [Petition of Appeal (Form 7)](/files/Form-POA-Sept09.pdf){:target="_blank"}
 
 ##### **5. Parties may lodge Consent to Mediation under MiLAAS**
 Parties to an appeal before the Board may refer to mediation under the Mediation in Land Acquisition Appeals Scheme by lodging a Consent to Mediation.
