@@ -19,7 +19,6 @@ The factors which shall not be taken into consideration have been set out in sec
 <br>
    (a)     the degree of urgency which has led to the acquisition;
 <br>
-   
    (b)    any disinclination of the person interested to part with the land acquired;
 <br>   
    
