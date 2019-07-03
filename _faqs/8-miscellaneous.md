@@ -17,7 +17,7 @@ The Appeals Board is an independent tribunal which hears and determines appeals 
 <br>
 By the time your appeal is fixed for hearing before the Appeals Board, directions would have been given by the Registrar at pre-hearing conferences for exchange of expert reports, witness statements, and/or written submissions, if required.  On the date of the hearing, you or your lawyer will be entitled to raise the appropriate arguments in support of your case.  The Collector of Land Revenue will be called upon to respond to the arguments made by you or your lawyer.
 
-If you fail to make out a case to show on the face of your case that the Collector of Land Revenue's award is inadequate, the Appeals Board may dismiss the appeal without calling upon the Collector of Land Revenue to make submissions ([Regulations 11(2) of the Land Acquisition (Appeals Board](/files/Regulation11-Procedureathearing.pdf/)) Regulations).
+If you fail to make out a case to show on the face of your case that the Collector of Land Revenue's award is inadequate, the Appeals Board may dismiss the appeal without calling upon the Collector of Land Revenue to make submissions ([Regulations 11(2) of the Land Acquisition (Appeals Board Regulations](/files/Regulation11-Procedureathearing.pdf/)).
 
 After hearing all the arguments made, the Appeals Board will then give its written decision on whether to confirm, reduce, increase or annul the award, or make such order as it deems fit.
 
