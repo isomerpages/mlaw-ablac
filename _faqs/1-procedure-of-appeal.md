@@ -14,19 +14,18 @@ In order to be entitled to appeal to the Appeals Board against the Collector of 
 
 ([Section 40(3) of the Land Acquisition Act](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr40-#pr40-)) <br>
 
-**What is the procedure for bringing an appeal to the Appeals Board against the Collector of Land Revenue's award for compulsory acquisition of my land?**
+**What is the procedure for bringing an appeal to the Appeals Board against the Collector of Land Revenue's award for compulsory acquisition of my land?** <br> 
 
-You may appeal to the Appeals Board against the award of the Collector of Land Revenue ("Collector") by:
+You may appeal to the Appeals Board against the award of the Collector of Land Revenue ("Collector") by: <br> 
 
-(a)   lodging with the Registrar two copies of the completed notice of appeal within 14 days (if the date of acquisition is before 29 September 2014) or 28 days (if the date of acquisition is on or after 29 September 2014) after the date you receive the Collector's award; and
+(a)   lodging with the Registrar two copies of the completed notice of appeal within 14 days (if the date of acquisition is before 29 September 2014) or 28 days (if the date of acquisition is on or after 29 September 2014) after the date you receive the Collector's award; and <br>
 
-(b)   either:
+(b)   either: <br>
 
-         i.   depositing with the Accountant-General (by way of cheque, cashier's order or interbank transfer); or
+i.   depositing with the Accountant-General (by way of cheque, cashier's order or interbank transfer); or
+ii.   authorising the Collector to deposit with the Accountant-General, <br> 
 
-        ii.   authorising the Collector to deposit with the Accountant-General,
-
-       within 14 days (if the date of acquisition is before 29 September 2014) or 28 days (if the date of acquisition is on or after 29 September 2014) after the date of receiving the Collector's award, a sum equivalent to one-third the amount of the award, or $5,000, whichever is lesser, unless the Collector has waived in writing the requirement of an appeal deposit; and    
+within 14 days (if the date of acquisition is before 29 September 2014) or 28 days (if the date of acquisition is on or after 29 September 2014) after the date of receiving the Collector's award, a sum equivalent to one-third the amount of the award, or $5,000, whichever is lesser, unless the Collector has waived in writing the requirement of an appeal deposit; and    
 
 (c)   thereafter, two copies of the petition of appeal must be lodged with the Registrar within 14 days (if the date of acquisition is before 29 September 2014) or 28 days (if the date of acquisition is on or after 29 September 2014) after the date on which the Collector of Land Revenue's grounds of award have been served on you. <br>
 
