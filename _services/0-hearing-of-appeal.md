@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Hearing Of Appeal
+title: Hearing of Appeal
 permalink: /services/hearing-of-appeal/
 breadcrumb: Hearing Of Appeal
 collection_name: services
