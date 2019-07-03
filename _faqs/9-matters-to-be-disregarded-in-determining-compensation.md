@@ -13,13 +13,12 @@ Matters to be disregarded in determining compensation
 The factors which shall not be taken into consideration have been set out in section 34 of the Land Acquisition Act, which are as follows:
 <br>
 
-
-   **Matters to be disregarded in determining compensation**
+    * **Matters to be disregarded in determining compensation**
    <br>
    In determining the amount of compensation to be awarded for land acquired under this Act, the Board shall not take into consideration —
 <br>
 
-  (a)     the degree of urgency which has led to the acquisition;<br>
+    * (a)     the degree of urgency which has led to the acquisition;<br>
   (b)    any disinclination of the person interested to part with the land acquired;
     (c)    any damage sustained by the person interested which, if caused by a private person, would not be a good cause of action;
     (d)   any damage which is likely to be caused to the land acquired after the date of the publication of the notification under section 5 by or in consequence of the use to which it will be put;
