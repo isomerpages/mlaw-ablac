@@ -17,8 +17,8 @@ The Appeals Board shall consider *only* the following matters in determining the
 <br>
 **33.** — (1)  In determining the amount of compensation to be awarded for land acquired under this Act, the Board shall take into consideration the following matters and no others: <br><br>
 * where the date of acquisition of the land is on or after 12th February 2007, the market value of the acquired land — <br> <br>
-   * as at the date of the publication of the notification under section 3(1) if the notification is, within 6 months from the date of its publication, followed by a declaration made under section 5 in respect of the same land or part thereof; or <br>
-   * as at the date of the publication of the declaration made under section 5, in any other case;
+   * as at the date of the publication of the notification under [section 3(1)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr3-#pr3-) if the notification is, within 6 months from the date of its publication, followed by a declaration made under [section 5](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr5-#pr5-) in respect of the same land or part thereof; or <br>
+   * as at the date of the publication of the declaration made under [section 5](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr5-#pr5-), in any other case;
 
 
 * any increase in the value of any other land (such as contiguous or adjacent land) of the person interested likely to accrue from the use to which the land acquired will be put;
@@ -85,7 +85,7 @@ The Appeals Board shall consider *only* the following matters in determining the
 
  
 
-(6)  For the purposes of this section, the date of acquisition of any land shall be the date of the publication of the notification under section 5(1) declaring that that land is needed for the purpose specified in the declaration.
+(6)  For the purposes of this section, the date of acquisition of any land shall be the date of the publication of the notification under [section 5(1)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr5-#pr5-) declaring that that land is needed for the purpose specified in the declaration.
 
 <div style="text-align: right"> [Act 2/88 wef 12/02/1988] </div>
 
