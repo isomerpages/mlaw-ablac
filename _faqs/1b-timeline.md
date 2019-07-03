@@ -58,7 +58,6 @@ The Board may in its discretion allow the Appellant to proceed with his appeal n
 * See also [Practice Direction No 2 of 2001](https://mlaw-ablac-staging.netlify.com/legislation/practice-directions/)
 
 ##### **3. Collector lodges Grounds of Award**
-<br>
 The Collector lodges with the Registrar his Grounds of Award. 
 
 The Registrar serves a copy of the Grounds of Award on the Appellant.
@@ -66,7 +65,6 @@ The Registrar serves a copy of the Grounds of Award on the Appellant.
 See [section 23(2)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr23-#pr23-).
 
 ##### **4. Within 14 Days - Appellant lodges with Registrar the Petition of Appeal**
-<br>
 The Appellant must lodge with the Registrar the Petition of Appeal (in duplicate) within 14 days of the date on which a copy of the Grounds of Award of the Collector has been served upon the Appellant. 
 
 The Petition of Appeal must state the grounds of appeal. 
@@ -78,7 +76,6 @@ See [section 23(4)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr23-#pr23-).
 * Download form for [Petition of Appeal (Form 7)](/files/Form-POA-Sept09.pdf)
 
 ##### **5. Parties may lodge Consent to Mediation under MiLAAS**
-<br>
 Parties to an appeal before the Board may refer to mediation under the Mediation in Land Acquisition Appeals Scheme by lodging a Consent to Mediation.
 
 Where the Award of the Collector is less than $500 000, the Board may appoint a mediator. 
@@ -88,3 +85,9 @@ Where the Award is $500 000 or more, the Board may also appoint a mediator if it
 The mediator will be appointed from the panel of assessors. 
 
 See [Practice Direction No. 1 of 2009](https://mlaw-ablac-staging.netlify.com/legislation/practice-directions/).
+
+##### **6. Registrar gives Notice of Pre-Hearing/e-Pre-Hearing Conference**
+<u>Pre-Hearing Conference</u>
+The Registrar gives notice of a Pre-Hearing Conference (“PHC”). At the PHC, directions may be given and orders may be made for the further conduct of the appeal. 
+<u> E-Pre-Hearing Conference</u> 
+Where the parties are represented by lawyers and with their consent PHC may be conducted by email (“e-PHC”).
