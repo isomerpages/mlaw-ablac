@@ -27,8 +27,7 @@ See [section 40(1)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr40-#pr40-).
 <br>
 The person interested who intends to appeal to the Board (“Appellant”) lodges with the Registrar a written Notice of Appeal (in duplicate) within 14 days of the date of receipt of the award.
 <br>
-See section 23(1)(a).  
-<br>
+See section 23(1)(a). 
 * the place at which all documents are lodged with the Registrar is the Registry of the Board.
 * Download Notice of Appeal
 The Registrar forwards a copy of the Notice of Appeal to the Collector. 
