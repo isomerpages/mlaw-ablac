@@ -57,10 +57,10 @@ Case Law
 
   <div class="pagination">
     <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law/">First </a>
-    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law-3/">Previous </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/past-decision/case-law-3/">Previous </a>
     <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law/">1 </a>
-    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law-2/">2 </a>
-    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law-3/">3 </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/past-decision/case-law-2/">2 </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/past-decision/case-law-3/">3 </a>
     <a class="pagination disabled" href="#">4 </a>
     <a class="pagination disabled" href="#">Next </a>
     <a class="pagination disabled" href="#">Last</a>
