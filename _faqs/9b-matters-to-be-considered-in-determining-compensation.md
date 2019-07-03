@@ -15,8 +15,7 @@ The Appeals Board shall consider *only* the following matters in determining the
 
 **Matters to be considered in determining compensation**
 <br>
-**33.** — 
-1.  In determining the amount of compensation to be awarded for land acquired under this Act, the Board shall take into consideration the following matters and no others: <br><br>
+**33.** — 1.  In determining the amount of compensation to be awarded for land acquired under this Act, the Board shall take into consideration the following matters and no others: <br><br>
     * where the date of acquisition of the land is on or after 12th February 2007, the market value of the acquired land — <br> <br>
    * as at the date of the publication of the notification under section 3(1) if the notification is, within 6 months from the date of its publication, followed by a declaration made under section 5 in respect of the same land or part thereof; or <br>
    * as at the date of the publication of the declaration made under section 5, in any other case;
