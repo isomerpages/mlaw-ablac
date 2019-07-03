@@ -6,7 +6,7 @@ breadcrumb: Appeal Against A Decision of the Appeals Board
 collection_name: faqs
 ---
 
-Appeal Against A Decision of the Appeals Board
+Appeal Against a Decision of the Appeals Board
 ---
 **Does the Land Acquisition Act provide an avenue of appeal against the decision of the Appeals Board?**
 <br>
