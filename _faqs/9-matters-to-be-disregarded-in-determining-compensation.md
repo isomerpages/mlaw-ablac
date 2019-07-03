@@ -44,4 +44,4 @@ In determining the amount of compensation to be awarded for land acquired under 
 
 (h)   evidence of sales of comparable properties, unless the Board is satisfied that the sales are made bona fide and not for speculative purposes and the onus of proving that the transactions are made bona fide and not for speculative purposes shall lie with the appellant.
 
-[66/73]
+<div style="text-align: right"> [66/73] </div>
