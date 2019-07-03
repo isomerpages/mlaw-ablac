@@ -30,7 +30,7 @@ The person interested who intends to appeal to the Board (“Appellant”) lodge
 
 [See section 23(1)(a)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr23-#pr23-). 
 * the place at which all documents are lodged with the Registrar is the Registry of the Board.
-* Download [Notice of Appeal](/files/Form-NOA.pdf)
+* Download [Notice of Appeal](/files/Form-NOA.pdf){:target="_blank"}
 <br>
 The Registrar forwards a copy of the Notice of Appeal to the Collector. 
 <br>
