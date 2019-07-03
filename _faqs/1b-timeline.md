@@ -86,4 +86,4 @@ Where the Award is $500 000 or more, the Board may also appoint a mediator if it
 
 The mediator will be appointed from the panel of assessors. 
 
-See Practice Direction No. 1 of 2009.
+See [Practice Direction No. 1 of 2009](https://mlaw-ablac-staging.netlify.com/legislation/practice-directions/).
