@@ -9,13 +9,13 @@ collection_name: faqs
 Timeline
 ---
 **1. Collector makes Award**
-<b>
+<br>
 The Collector makes an award of:
  * the area of the land;
  * the compensation which in his opinion should be allowed for the land; and
  * the apportionment of the compensation among all persons interested.
 See [section 10(1)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr10-#pr10-).
-<b>
+<br>
   
 **Collector makes written offer of compensation**
 
