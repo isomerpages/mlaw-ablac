@@ -8,9 +8,9 @@ collection_name: faqs
 
 Procedure of Appeal
 ---
-<p>
+
 **Am I entitled to file an appeal against a land acquisition award after I have accepted payment of the Collector of Land Revenue's awarded compensation?** <br>
-In order to be entitled to appeal to the Appeals Board against the Collector of Land Revenue's award, you must receive the compensation amount under protest as to the sufficiency of the amount of the award.  Therefore, you should inform the Collector of Land Revenue (preferably in writing) that you will be appealing against his award, before accepting payment of compensation under the award of the Collector of Land Revenue. <br> </p> 
+In order to be entitled to appeal to the Appeals Board against the Collector of Land Revenue's award, you must receive the compensation amount under protest as to the sufficiency of the amount of the award.  Therefore, you should inform the Collector of Land Revenue (preferably in writing) that you will be appealing against his award, before accepting payment of compensation under the award of the Collector of Land Revenue. <br> 
 
 ([Section 40(3) of the Land Acquisition Act](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr40-#pr40-)) <br>
 
