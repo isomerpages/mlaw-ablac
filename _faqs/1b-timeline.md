@@ -18,6 +18,5 @@ See [section 10(1)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr10-#pr10-).
 <br>
   
 **Collector makes written offer of compensation**
-
 The Collector makes a written offer of the compensation to the persons interested.
 See [section 40(1)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr40-#pr40-). 
