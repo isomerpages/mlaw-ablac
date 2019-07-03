@@ -10,6 +10,7 @@ Hearing of the Appeal
 ---
 
 **At the hearing of my appeal, must I be represented by a lawyer?**
+<br>
 A hearing before the Appeals Board is like a hearing in a court of law in many ways.  In a number of appeals lodged with the Appeals Board, appellants engage a lawyer to give legal advice on their cases, and to make legal arguments before the Appeals Board.  You may wish to engage a lawyer to advise and represent you in your appeal, especially if you are unsure about how to present your case, or if you are of the view that a lawyer may be better able to present the relevant legal arguments in your favour.  However, if you do not have a lawyer, you may appear before the Appeals Board to present your case in person.  The Act provides that the onus of proving that an award of compensation is inadequate is on you, the appellant.
 What is the procedure at the hearing of my appeal?
 The procedure at the hearing of any proceedings shall be such as Appeals Board may determine, subject to the following:
@@ -21,6 +22,7 @@ The procedure at the hearing of any proceedings shall be such as Appeals Board m
 (Regulation 11(1) of the Land Acquisition (Appeals Board) Regulations).
 
 **What is the constitution of the Appeals Board?**
+<br>
 For the purpose of determining appeals in respect of any award made by the Collector of Land Revenue under the Land Acquisition Act, where an appeal is against an award of:
 
 (a)   $250,000 or more, the Appeals Board shall consist of the Commissioner sitting with two persons selected by the Commissioner from a panel of assessors appointed by the Minister for Law; or
@@ -34,6 +36,7 @@ When the amount of the compensation has been settled and there is a dispute as t
 (Section 38(1) of the Land Acquisition Act).
 
 **What orders may the Appeals Board make upon the hearing of an appeal?**
+<br>
 The Appeals Board may confirm, reduce, increase or annul the award by the Collector of Land Revenue, or make such order(s) as it deems fit.
 
 (Section 27(3) of the Land Acquisition Act).
