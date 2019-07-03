@@ -166,11 +166,11 @@ Case Law
     <a class="pagination disabled" href="#">First </a>
     <a class="pagination disabled" href="#">Previous </a>
     <a class="pagination disabled" href="#">1 </a>
-    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/pages/case-law-2/">2 </a>
-    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/pages/case-law-3/">3 </a>
-    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/pages/case-law-4/">4 </a>
-    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/pages/case-law-2/">Next </a>
-    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/pages/case-law-4/">Last</a>
+    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law-2/">2 </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law-3/">3 </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law-4/">4 </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law-2/">Next </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law-4/">Last</a>
   </div>
 
 
