@@ -4,6 +4,7 @@ title: List All
 permalink: /hearings-and-decisions/list-all/
 breadcrumb: List All
 collection_name: hearings-and-decisions
+second_nav_title: "Past Decisions"
 ---
 
 List All
