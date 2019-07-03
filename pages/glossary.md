@@ -86,34 +86,34 @@ These explanatory notes may help to explain some of the expressions used on this
   </tr>
   <tr>
     <td>Interlocutory <br>Application</td>
-    <td></td>
+    <td>This is an application to the Board which is made by a party (referred to as the “Applicant”) usually before the conclusion of the Appeal. It will be heard before the Registrar. An Interlocutory Application is made by lodging with the Registrar a notice of application in duplicate.<br><br><br>If it is a consent or unopposed application it must be indorsed by the party consenting or not opposing. The attendance of the parties is not required unless otherwise notified by the Registrar. The decision of the Registrar will be given by indorsement on the duplicate of the application which will be given to the Applicant.<br><br><br>In the case of other applications the Registrar will give notice of hearing. Any party dissatisfied with any decision of the Registrar may appeal to the Commissioner by notice lodged with the Registrar within 7 days of the Registrar’s decision.<br><br><br>A Form of an Interlocutory Application may be downloaded from the Website.</td>
   </tr>
   <tr>
     <td>Notice of <br>Appeal</td>
-    <td></td>
+    <td>An appeal to the Board is made by lodging with the Registrar a written notice of appeal in duplicate. This must be done within 14 days of the receipt of the Collector’s award. A Form of a Notice of Appeal may be downloaded from the Website.</td>
   </tr>
   <tr>
     <td>Person <br>interested</td>
-    <td></td>
+    <td>A person interested includes every person claiming an interest in compensation to be made on account of the acquisition of land under LAA, but does not include a tenant by the month or at will.</td>
   </tr>
   <tr>
     <td>Petition of <br>Appeal</td>
-    <td></td>
+    <td>Within 14 days of the date on which the Collector’s Grounds of Award have been served on the appellant he must lodge with the Registrar a Petition of Appeal in duplicate. The Petition of Appeal must state the grounds of appeal on which the appellant intends to rely at the hearing of his appeal.<br><br><br>A Form of a Petition of Appeal may be downloaded from the Website.</td>
   </tr>
   <tr>
     <td>Practice <br>Direction</td>
-    <td></td>
+    <td>Practice Directions are standing directions made by the Board for the conduct of an appeal.</td>
   </tr>
   <tr>
     <td>Registrar</td>
-    <td></td>
+    <td>Registrar means the Registrar of the Board appointed by the Minister under section 21 of LAA. The Registrar is the principal officer of the Board and he also makes Orders and gives Directions at PHC, e-PHC and on Interlocutory Applications.</td>
   </tr>
   <tr>
     <td>Registry</td>
-    <td></td>
+    <td>The registry is the office of the Board.</td>
   </tr>
   <tr>
     <td>Respondent</td>
-    <td></td>
+    <td>A Respondent is a person against whom an appeal has been brought.</td>
   </tr>
 </table>
