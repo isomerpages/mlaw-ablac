@@ -62,7 +62,7 @@ The Collector lodges with the Registrar his Grounds of Award.
 
 The Registrar serves a copy of the Grounds of Award on the Appellant.
 
-See section 23(2).
+See [section 23(2)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr23-#pr23-).
 
 ##### **4. Within 14 Days - Appellant lodges with Registrar the Petition of Appeal**
 <br>
@@ -72,9 +72,9 @@ The Petition of Appeal must state the grounds of appeal.
 
 Except with the consent of the Board, the Appellant may not rely on any grounds of appeal other than those stated in the Petition of Appeal. 
 
-See section 23(4). 
+See [section 23(4)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr23-#pr23-). 
 
-* Download form for Petition of Appeal (Form 7)
+* Download form for [Petition of Appeal (Form 7)](/files/Form-POA-Sept09.pdf)
 
 ##### **5. Parties may lodge Consent to Mediation under MiLAAS**
 <br>
