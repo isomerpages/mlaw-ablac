@@ -21,7 +21,7 @@ The Appeals Board shall consider *only* the following matters in determining the
    * as at the date of the publication of the declaration made under [section 5](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr5-#pr5-), in any other case;
 
 
-* any increase in the value of any other land (<b><u>such as contiguous or adjacent land</b></u>) of the person interested likely to accrue from the use to which the land acquired will be put;
+* any increase in the value of any other land (<b><u>such as contiguous or adjacent land</u></b>) of the person interested likely to accrue from the use to which the land acquired will be put;
 
  
 
