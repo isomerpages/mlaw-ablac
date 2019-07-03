@@ -88,6 +88,7 @@ See [Practice Direction No. 1 of 2009](https://mlaw-ablac-staging.netlify.com/le
 <u>Pre-Hearing Conference</u>
 <br>
 The Registrar gives notice of a Pre-Hearing Conference (“PHC”). At the PHC, directions may be given and orders may be made for the further conduct of the appeal. <br>
+
 <u> E-Pre-Hearing Conference</u> 
 <br>
 Where the parties are represented by lawyers and with their consent PHC may be conducted by email (“e-PHC”).
