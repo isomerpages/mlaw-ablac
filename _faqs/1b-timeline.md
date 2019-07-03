@@ -28,15 +28,15 @@ See [section 40(1)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr40-#pr40-).
 The person interested who intends to appeal to the Board (“Appellant”) lodges with the Registrar a written Notice of Appeal (in duplicate) within 14 days of the date of receipt of the award.
 <br> 
 
-See section 23(1)(a). 
+[See section 23(1)(a)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr23-#pr23-). 
 * the place at which all documents are lodged with the Registrar is the Registry of the Board.
-* Download Notice of Appeal
+* Download [Notice of Appeal](/files/Form-NOA.pdf)
 The Registrar forwards a copy of the Notice of Appeal to the Collector. 
 <br>
 
 The Board may in its discretion allow the Appellant to proceed with his appeal notwithstanding that the Notice of Appeal is not lodged in time. <br>
 
-See section 23(3). 
+[See section 23(3)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr23-#pr23-). 
 
 **Appellant makes deposit/authorises Collector to make deposit/obtains waiver from Collector of required deposit**
 <br>
@@ -50,8 +50,8 @@ The Appellant must within 14 days of the date of receipt of the Award:
                                                                    **OR**
 * Obtain a written waiver of the requirement of a deposit from the Collector.
 
-See section 23(1)(b).
+[See section 23(1)(b)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr23-#pr23-).
 <br>
 The Board may in its discretion allow the Appellant to proceed with his appeal notwithstanding that the deposit is not made or authorised in time.
-* Download Notice of Appeal (Form 1) and Letter of Authorisation (Form 2)
-* See also Practice Direction No 2 of 2001
+* Download [Notice of Appeal (Form 1) and Letter of Authorisation (Form 2]((/files/Form-NOA.pdf))
+* See also [Practice Direction No 2 of 2001](https://mlaw-ablac-staging.netlify.com/legislation/practice-directions/)
