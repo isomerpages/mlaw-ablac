@@ -60,11 +60,11 @@
   - title: Past Decisions
     url: /hearings-and-decisions/pastdecisions/
     sub-links:
-    -title:List All
+    - title: List All
     url: /hearing-and-decisions/past-decision/list-all.md
-    -title:Landmark Case
+    - title: Landmark Case
     url: /hearing-and-decisions/past-decision/landmark-case.md
-    -title:Landmark Case
+    - title: Landmark Case
     url: /hearing-and-decisions/past-decision/case-law-1.md
     
 - title: forms
