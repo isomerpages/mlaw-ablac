@@ -25,7 +25,7 @@ Email: [ab_enquiry@ab.gov.sg](ab_enquiry@ab.gov.sg) or [ab_ephc@ab.gov.sg](ab_ep
 Website: [https://mlaw-ablac-staging.netlify.com/](https://mlaw-ablac-staging.netlify.com/)
 
 **Our Operating Hours:**<br>
-The Registry is open from 8.30 am to 6.00 pm from Monday to Friday.  We are closed on Saturday, Sunday and public holidays.
+The Registry is open from 8.30 am to 6.00 pm from Monday to Friday. We are closed on Saturday, Sunday and public holidays.
 
 Our operating hours for lodgement of documents are from 9.00 am to 5.30 pm (close for lunch from 1.00 pm to 2.00 pm).
 
