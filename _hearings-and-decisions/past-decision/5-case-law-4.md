@@ -63,5 +63,5 @@ Case Law
     <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law-3/">3 </a>
     <a class="pagination disabled" href="#">4 </a>
     <a class="pagination disabled" href="#">Next </a>
-    <a class="pagination disabled" href="#"">Last</a>
+    <a class="pagination disabled" href="#">Last</a>
   </div>
