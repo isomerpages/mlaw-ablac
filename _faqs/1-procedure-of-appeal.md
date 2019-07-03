@@ -27,10 +27,11 @@ You may appeal to the Appeals Board against the award of the Collector of Land R
   i.   depositing with the Accountant-General (by way of cheque, cashier's order or interbank transfer); or <br>
 
   ii.   authorising the Collector to deposit with the Accountant-General, <br> 
-
+<br>
+  within 14 days (if the date of acquisition is before 29 September 2014) or 28 days (if the date of acquisition is on or after 29 September 2014) after the date of receiving the Collector's award, [a sum equivalent to one-third the amount of the](/files/FAQ-Q9.pdf/) <u>award</u>, or $5,000, whichever is lesser, unless the Collector has waived in writing the requirement of an appeal deposit; and
 </ol>
 
-   within 14 days (if the date of acquisition is before 29 September 2014) or 28 days (if the date of acquisition is on or after 29 September 2014) after the date of receiving the Collector's award, [a sum equivalent to one-third the amount of the](/files/FAQ-Q9.pdf/) <u>award</u>, or $5,000, whichever is lesser, unless the Collector has waived in writing the requirement of an appeal deposit; and    
+       
 
 (c)   thereafter, two copies of the [petition of appeal](/files/FAQ-Q4.pdf/) must be lodged with the Registrar within 14 days (if the date of acquisition is before 29 September 2014) or 28 days (if the date of acquisition is on or after 29 September 2014) after the date on which the Collector of Land Revenue's [grounds of award](/files/FAQ-Q5.pdf/) have been served on you. <br>
 
