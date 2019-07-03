@@ -21,17 +21,14 @@ button:
     url: https://staging-isomer-mlaw.netlify.com/
     
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
+  - title: About Us
+    url: /about-us/what-we-do/
     external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
+  - title: Hearing Lists
+    url: /hearings-and-decisions/hearing-list/
     external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
+  - title: Legislation and Past Decisions
+    url: /hearings-and-decisions/list-all/
 
 resources-title: Resources
 resources-subtitle: Be in the know
