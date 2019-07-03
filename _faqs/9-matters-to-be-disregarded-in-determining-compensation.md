@@ -19,6 +19,7 @@ The factors which shall not be taken into consideration have been set out in sec
 <br>
 
    (a)     the degree of urgency which has led to the acquisition;
+   <br>
    (b)    any disinclination of the person interested to part with the land acquired;
   * (c)    any damage sustained by the person interested which, if caused by a private person, would not be a good cause of action;
   * (d)   any damage which is likely to be caused to the land acquired after the date of the publication of the notification under section 5 by or in consequence of the use to which it will be put;
