@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Hearing of the Appeal
-permalink: /faqs/procedure-of-appeal/
+permalink: /faqs/the-hearing-of-the-appeal/
 breadcrumb: Hearing of the Appeal
 collection_name: faqs
 ---
