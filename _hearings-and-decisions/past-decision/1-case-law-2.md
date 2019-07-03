@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Case Law
-permalink: /hearings-and-decisions/past-decision/case-law-2/
+permalink: /past-decision/case-law-2/
 breadcrumb: Case Law
 ---
 
