@@ -22,7 +22,7 @@ You may appeal to the Appeals Board against the award of the Collector of Land R
 
 (b)   either: <br>
 
-i.   depositing with the Accountant-General (by way of cheque, cashier's order or interbank transfer); or
+i.   depositing with the Accountant-General (by way of cheque, cashier's order or interbank transfer); or <br>
 ii.   authorising the Collector to deposit with the Accountant-General, <br> 
 
 within 14 days (if the date of acquisition is before 29 September 2014) or 28 days (if the date of acquisition is on or after 29 September 2014) after the date of receiving the Collector's award, a sum equivalent to one-third the amount of the award, or $5,000, whichever is lesser, unless the Collector has waived in writing the requirement of an appeal deposit; and    
