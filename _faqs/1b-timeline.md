@@ -34,7 +34,7 @@ See section 23(1)(a).
 The Registrar forwards a copy of the Notice of Appeal to the Collector. 
 <br>
 
-The Board may in its discretion allow the Appellant to proceed with his appeal notwithstanding that the Notice of Appeal is not lodged in time. 
+The Board may in its discretion allow the Appellant to proceed with his appeal notwithstanding that the Notice of Appeal is not lodged in time. <br>
 
 See section 23(3). 
 
@@ -43,8 +43,10 @@ See section 23(3).
   
 The Appellant must within 14 days of the date of receipt of the Award:
 * Deposit with the Accountant-General a sum equivalent to one-third the amount of the award or $5,000 whichever is less;
+<br>
                                                **OR**
 * Authorise the Collector to make the deposit in a case where the compensation money held by the Collector is sufficient for the deposit;
+<br>
                                                 **OR**
 * Obtain a written waiver of the requirement of a deposit from the Collector.
 
