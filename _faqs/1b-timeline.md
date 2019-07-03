@@ -107,6 +107,7 @@ See [section 25(2)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr25-#pr25-).
 ##### **8. Withdrawal of Appeal**
 An Appellant may withdraw his appeal at any time by lodging a Notice of Withdrawal but see the Note below.
 <br>
+
 <u> <i> Note </i> </u>
 <br>
 Before an appeal is withdrawn, there may be questions to be decided with respect to costs, any deposit money or any other relevant matter and an Order or Direction by the Board may be required.
