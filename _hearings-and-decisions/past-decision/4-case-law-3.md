@@ -154,7 +154,7 @@ Case Law
     <td>Case Law</td>
     <td>AB 1999.098</td>
     <td>Toh Kai Hoo</td>
-    <td>28 Apr 2001	</td>
+    <td>28 Apr 2001</td>
     <td><a href="/files/Decision-TohKaiHoo-AB1999.098.pdf" target="_blank"></a></td>
   </tr>
 </table><br>
