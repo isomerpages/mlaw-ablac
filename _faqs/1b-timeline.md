@@ -97,9 +97,15 @@ Where the parties are represented by lawyers and with their consent PHC may be c
 ##### **7. Registrar gives Notice of Hearing**
 The Registrar fixes a time and place for the hearing of the appeal and gives at least 14 days’ notice to the parties.
 <br>
-See section 25(1). 
+See [section 25(1)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr25-#pr25-). 
 <br>
 
 Parties attend hearing either in person or by a lawyer 
 <br>
-See section 25(2).
+See [section 25(2)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr25-#pr25-).
+
+##### **8. Withdrawal of Appeal**
+An Appellant may withdraw his appeal at any time by lodging a Notice of Withdrawal but see the Note below.
+<br>
+<u> <i> Note </i> </u>
+Before an appeal is withdrawn, there may be questions to be decided with respect to costs, any deposit money or any other relevant matter and an Order or Direction by the Board may be required.
