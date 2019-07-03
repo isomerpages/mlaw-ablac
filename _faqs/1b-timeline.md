@@ -52,7 +52,7 @@ The Appellant must within 14 days of the date of receipt of the Award:
 [See section 23(1)(b)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr23-#pr23-).
 <br>
 The Board may in its discretion allow the Appellant to proceed with his appeal notwithstanding that the deposit is not made or authorised in time.
-* Download [Notice of Appeal (Form 1) and Letter of Authorisation (Form 2]((/files/Form-NOA.pdf))
+* Download [Notice of Appeal (Form 1) and Letter of Authorisation (Form 2)]((/files/Form-NOA.pdf))
 * See also [Practice Direction No 2 of 2001](https://mlaw-ablac-staging.netlify.com/legislation/practice-directions/)
 
 ##### **3. Collector lodges Grounds of Award**
