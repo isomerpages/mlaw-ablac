@@ -7,7 +7,7 @@ collection_name: hearings-and-decisions
 ---
 
 
-List All
+Case Law
 ---
 
 <table>
