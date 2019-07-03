@@ -161,12 +161,12 @@ Case Law
 
 
   <div class="pagination">
-    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law-1/">First </a>
-    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law-2/">Previous </a>
-    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law-1/">1 </a>
-    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law-2/">2 </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law/">First </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/pages/case-law-2/">Previous </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law/">1 </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/pages/case-law-2/">2 </a>
     <a class="pagination disabled" href="#">3 </a>
-    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law-4/">4 </a>
-    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law-4/">Next </a>
-    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law-4/">Last</a>
+    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/pages/case-law-4/">4 </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/pages/case-law-4/">Next </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/pages/case-law-4/">Last</a>
   </div>
