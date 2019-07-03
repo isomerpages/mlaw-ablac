@@ -93,3 +93,13 @@ The Registrar gives notice of a Pre-Hearing Conference (“PHC”). At the PHC, 
 <u> E-Pre-Hearing Conference</u> 
 <br>
 Where the parties are represented by lawyers and with their consent PHC may be conducted by email (“e-PHC”).
+
+##### **7. Registrar gives Notice of Hearing**
+The Registrar fixes a time and place for the hearing of the appeal and gives at least 14 days’ notice to the parties.
+<br>
+See section 25(1). 
+<br>
+
+Parties attend hearing either in person or by a lawyer 
+<br>
+See section 25(2).
