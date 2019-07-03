@@ -162,13 +162,13 @@ List All
 
 
   <div class="pagination">
-    <a href="#">First</a>
-    <a href="#">Previous</a>
-    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law-1/">1</a>
-    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law-2/">2</a>
-    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law-3/">3</a>
-    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law-4/">4</a>
-    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law-2/">Next</a>
+    <a href="#">First </a>
+    <a href="#">Previous </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law-1/">1 </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law-2/">2 </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law-3/">3 </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law-4/">4 </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law-2/">Next </a>
     <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law-4/">Last</a>
   </div>
 
