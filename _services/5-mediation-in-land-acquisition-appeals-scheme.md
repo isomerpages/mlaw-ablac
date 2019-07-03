@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Mediation In Land Acquisition Appeals Scheme
+title: Mediation in Land Acquisition Appeals Scheme
 permalink: /services/mediation-in-land-acquisition-appeals-scheme/
 breadcrumb: Mediation In Land Acquisition Appeals Scheme
 collection_name: services
