@@ -4,6 +4,7 @@ title: Case Law
 permalink: /hearings-and-decisions/past-decision/pages/case-law-2/
 breadcrumb: Case Law
 collection_name: hearings-and-decisions
+second_nav_title: "Past Decisions"
 ---
 
 Case Law
