@@ -44,10 +44,10 @@ See section 23(3).
 The Appellant must within 14 days of the date of receipt of the Award:
 * Deposit with the Accountant-General a sum equivalent to one-third the amount of the award or $5,000 whichever is less;
 <br>
-                                               **OR**
+                                                                   **OR**
 * Authorise the Collector to make the deposit in a case where the compensation money held by the Collector is sufficient for the deposit;
 <br>
-                                                **OR**
+                                                                   **OR**
 * Obtain a written waiver of the requirement of a deposit from the Collector.
 
 See section 23(1)(b).
