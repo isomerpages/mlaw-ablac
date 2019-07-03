@@ -11,7 +11,7 @@
   sub-links:
   - title: What We Do
     url: /about-us/what-we-do/
-  - title: Our Vision and Mission
+  - title: Our Vision And Mission
     url: /about-us/our-vision-and-mission/
   - title: Our History
     url: /about-us/our-history/
@@ -59,7 +59,14 @@
     url: /hearings-and-decisions/pre-hearing-conference/
   - title: Past Decisions
     url: /hearings-and-decisions/pastdecisions/
-
+    sub-links:
+    -title:List All
+    url: /hearing-and-decisions/past-decision/list-all.md
+    -title:Landmark Case
+    url: /hearing-and-decisions/past-decision/landmark-case.md
+    -title:Landmark Case
+    url: /hearing-and-decisions/past-decision/case-law-1.md
+    
 - title: forms
   url: /forms/
 
