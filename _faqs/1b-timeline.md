@@ -44,10 +44,10 @@ The Board may in its discretion allow the Appellant to proceed with his appeal n
 The Appellant must within 14 days of the date of receipt of the Award:
 * Deposit with the Accountant-General a sum equivalent to one-third the amount of the award or $5,000 whichever is less;
 <br>
-                                             <ol>                 **OR**   </ol>  
+  **OR**  
 * Authorise the Collector to make the deposit in a case where the compensation money held by the Collector is sufficient for the deposit;
 <br>    
-                                             <ol>                 **OR**   </ol>  
+  **OR**  
 * Obtain a written waiver of the requirement of a deposit from the Collector.
 
 [See section 23(1)(b)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr23-#pr23-).
@@ -55,3 +55,35 @@ The Appellant must within 14 days of the date of receipt of the Award:
 The Board may in its discretion allow the Appellant to proceed with his appeal notwithstanding that the deposit is not made or authorised in time.
 * Download [Notice of Appeal (Form 1) and Letter of Authorisation (Form 2]((/files/Form-NOA.pdf))
 * See also [Practice Direction No 2 of 2001](https://mlaw-ablac-staging.netlify.com/legislation/practice-directions/)
+
+##### **3. Collector lodges Grounds of Award**
+<br>
+The Collector lodges with the Registrar his Grounds of Award. 
+
+The Registrar serves a copy of the Grounds of Award on the Appellant.
+
+See section 23(2).
+
+##### **4. Within 14 Days - Appellant lodges with Registrar the Petition of Appeal**
+<br>
+The Appellant must lodge with the Registrar the Petition of Appeal (in duplicate) within 14 days of the date on which a copy of the Grounds of Award of the Collector has been served upon the Appellant. 
+
+The Petition of Appeal must state the grounds of appeal. 
+
+Except with the consent of the Board, the Appellant may not rely on any grounds of appeal other than those stated in the Petition of Appeal. 
+
+See section 23(4). 
+
+* Download form for Petition of Appeal (Form 7)
+
+##### **5. Parties may lodge Consent to Mediation under MiLAAS**
+<br>
+Parties to an appeal before the Board may refer to mediation under the Mediation in Land Acquisition Appeals Scheme by lodging a Consent to Mediation.
+
+Where the Award of the Collector is less than $500 000, the Board may appoint a mediator. 
+
+Where the Award is $500 000 or more, the Board may also appoint a mediator if it seems fit or proper to do so. 
+
+The mediator will be appointed from the panel of assessors. 
+
+See Practice Direction No. 1 of 2009.
