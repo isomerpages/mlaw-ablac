@@ -13,7 +13,7 @@ Matters to be disregarded in determining compensation
 The factors which shall not be taken into consideration have been set out in section 34 of the Land Acquisition Act, which are as follows:
 <br>
 
-    * **Matters to be disregarded in determining compensation**
+  * **Matters to be disregarded in determining compensation**
    <br>
    In determining the amount of compensation to be awarded for land acquired under this Act, the Board shall not take into consideration —
 <br>
