@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Processing Of Court Documents
+title: Processing of Court Documents
 permalink: /services/processing-of-court-documents/
 breadcrumb: Processing Of Court Documents
 collection_name: services
