@@ -51,10 +51,7 @@ The Appellant must within 14 days of the date of receipt of the Award:
 * Obtain a written waiver of the requirement of a deposit from the Collector.
 
 See section 23(1)(b).
-
+<br>
 The Board may in its discretion allow the Appellant to proceed with his appeal notwithstanding that the deposit is not made or authorised in time.
-
- 
-
-Download Notice of Appeal (Form 1) and Letter of Authorisation (Form 2)
-See also Practice Direction No 2 of 2001
+* Download Notice of Appeal (Form 1) and Letter of Authorisation (Form 2)
+* See also Practice Direction No 2 of 2001
