@@ -22,7 +22,7 @@ The Collector makes a written offer of the compensation to the persons intereste
 <br>
 See [section 40(1)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr40-#pr40-). 
 <br>
-##### 2. Within 14 days
+##### **2. Within 14 days**
 **Appellant lodges with Registrar the Notice of Appeal**
 <br>
 The person interested who intends to appeal to the Board (“Appellant”) lodges with the Registrar a written Notice of Appeal (in duplicate) within 14 days of the date of receipt of the award.
