@@ -9,8 +9,8 @@ collection_name: faqs
 Procedure of Appeal
 ---
 
-**Am I entitled to file an appeal against a land acquisition award after I have accepted payment of the Collector of Land Revenue's awarded compensation?** <br>
-In order to be entitled to appeal to the Appeals Board against the Collector of Land Revenue's award, you must receive the compensation amount under protest as to the sufficiency of the amount of the award.  Therefore, you should inform the Collector of Land Revenue (preferably in writing) that you will be appealing against his award, before accepting payment of compensation under the award of the Collector of Land Revenue. <br>
+<p>**Am I entitled to file an appeal against a land acquisition award after I have accepted payment of the Collector of Land Revenue's awarded compensation?** <br>
+In order to be entitled to appeal to the Appeals Board against the Collector of Land Revenue's award, you must receive the compensation amount under protest as to the sufficiency of the amount of the award.  Therefore, you should inform the Collector of Land Revenue (preferably in writing) that you will be appealing against his award, before accepting payment of compensation under the award of the Collector of Land Revenue. <br> </p>
 
 ([Section 40(3) of the Land Acquisition Act](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr40-#pr40-)) <br>
 
@@ -30,7 +30,7 @@ You may appeal to the Appeals Board against the award of the Collector of Land R
 
 (c)   thereafter, two copies of the petition of appeal must be lodged with the Registrar within 14 days (if the date of acquisition is before 29 September 2014) or 28 days (if the date of acquisition is on or after 29 September 2014) after the date on which the Collector of Land Revenue's grounds of award have been served on you. <br>
 
-(Section 23(1)(a), (b) and (c) of the Land Acquisition Act). <br>
+([Section 23(1)(a), (b) and (c) of the Land Acquisition Act](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr23-#pr23-)). <br>
 
 **What is a petition of appeal?** <br>
 The petition of appeal is a document which must be lodged in after the Collector of Land Revenue's Grounds of Award has been served upon you, stating the grounds of your appeal.<br>
