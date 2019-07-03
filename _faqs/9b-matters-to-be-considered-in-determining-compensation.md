@@ -15,7 +15,7 @@ The Appeals Board shall consider *only* the following matters in determining the
 
 **Matters to be considered in determining compensation**
 <br>
-**33.** — 1.  In determining the amount of compensation to be awarded for land acquired under this Act, the Board shall take into consideration the following matters and no others: <br><br>
+**33.** — 1)  In determining the amount of compensation to be awarded for land acquired under this Act, the Board shall take into consideration the following matters and no others: <br><br>
 * where the date of acquisition of the land is on or after 12th February 2007, the market value of the acquired land — <br> <br>
    * as at the date of the publication of the notification under section 3(1) if the notification is, within 6 months from the date of its publication, followed by a declaration made under section 5 in respect of the same land or part thereof; or <br>
    * as at the date of the publication of the declaration made under section 5, in any other case;
@@ -41,23 +41,23 @@ The Appeals Board shall consider *only* the following matters in determining the
 
 <b><u>2. If the value of any other land of the person interested likely to accrue from the use to which the land acquired will be put is increased, the increase is to be set-off only against the amount of compensation that would otherwise be payable under subsection (1)(c) or (d) or both, where applicable.</u></b>
 
-2. [*Deleted by Act 19/2007 wef 07/05/2007*]
+2) [*Deleted by Act 19/2007 wef 07/05/2007*]
 
  
 
-3. [Deleted by Act 19/2007 wef 07/05/2007]
+3) [*Deleted by Act 19/2007 wef 07/05/2007*]
 
  
 
-4. [Deleted by Act 19/2007 wef 07/05/2007]
+4) [*Deleted by Act 19/2007 wef 07/05/2007*]
 
  
 
-5. For the purposes of subsection (1)(a) —
+5) For the purposes of subsection (1)(a) —
 
  
 
-* [Deleted by Act 19/2007 wef 07/05/2007]
+* [*Deleted by Act 19/2007 wef 07/05/2007*]
 
  
 
@@ -65,7 +65,7 @@ The Appeals Board shall consider *only* the following matters in determining the
 
  
 
-(c)  [Deleted by Act 19/2007 wef 07/05/2007]
+* [*Deleted by Act 19/2007 wef 07/05/2007*]
 
  
 
