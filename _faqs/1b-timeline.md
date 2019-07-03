@@ -45,8 +45,8 @@ The Board may in its discretion allow the Appellant to proceed with his appeal n
 The Appellant must within 14 days of the date of receipt of the Award:
 * Deposit with the Accountant-General a sum equivalent to one-third the amount of the award or $5,000 whichever is less;
 <br>                                                 **OR**  
-* Authorise the Collector to make the deposit in a case where the compensation money held by the Collector is sufficient for the deposit;   
-<br>                                                 **OR**  
+* Authorise the Collector to make the deposit in a case where the compensation money held by the Collector is sufficient for the deposit;
+                                                     **OR**  
 * Obtain a written waiver of the requirement of a deposit from the Collector.
 
 [See section 23(1)(b)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr23-#pr23-).
