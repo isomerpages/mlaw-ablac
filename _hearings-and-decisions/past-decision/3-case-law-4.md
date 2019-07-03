@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Case Law
-permalink: /hearings-and-decisions/past-decision/pages/case-law-4/
+permalink: /hearings-and-decisions/past-decision/case-law-4/
 breadcrumb: Case Law
 collection_name: hearings-and-decisions
 ---
@@ -57,10 +57,10 @@ Case Law
 
   <div class="pagination">
     <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law/">First </a>
-    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/pages/case-law-3/">Previous </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law-3/">Previous </a>
     <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law/">1 </a>
-    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/pages/case-law-2/">2 </a>
-    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/pages/case-law-3/">3 </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law-2/">2 </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/case-law-3/">3 </a>
     <a class="pagination disabled" href="#">4 </a>
     <a class="pagination disabled" href="#">Next </a>
     <a class="pagination disabled" href="#">Last</a>
