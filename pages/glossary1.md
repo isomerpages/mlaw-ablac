@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
 title: Glossary
-permalink: /glossary/
-breadcrumb: Glossary
+permalink: 
+breadcrumb: 
 collection_name: glossary
 ---
 
