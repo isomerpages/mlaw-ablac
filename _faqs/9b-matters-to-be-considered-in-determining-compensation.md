@@ -69,7 +69,7 @@ The Appeals Board shall consider *only*  the following matters in determining th
 
  
 
-* if any land in respect of which a value has been stated by or with the knowledge or consent of the owner thereof in any affidavit, return or other document required to be made or delivered to any public officer under the provisions of any written law and accepted by him at that value for the purposes of assessing the tax or duty payable thereon where the statement was made within two years of the date of the notification under section 5(1) in respect of the land, the market value of the acquired land at the date of the statement shall be deemed not to exceed the value therein contained;
+* if any land in respect of which a value has been stated by or with the knowledge or consent of the owner thereof in any affidavit, return or other document required to be made or delivered to any public officer under the provisions of any written law and accepted by him at that value for the purposes of assessing the tax or duty payable thereon where the statement was made within two years of the date of the notification under [section 5(1)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr5-#pr5-) in respect of the land, the market value of the acquired land at the date of the statement shall be deemed not to exceed the value therein contained;
 
  
 
