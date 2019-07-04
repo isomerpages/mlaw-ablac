@@ -1,8 +1,11 @@
 ---
-layout: simple-page
+layout: Left-nav-page
 title: Sitemap
 permalink: /sitemap/
 breadcrumb: Sitemap
+---
+
+Sitemap
 ---
 
 * [Home]()
