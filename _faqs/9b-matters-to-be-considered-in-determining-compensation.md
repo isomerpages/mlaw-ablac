@@ -52,8 +52,7 @@ The Appeals Board shall consider *only*  the following matters in determining th
   4. [*Deleted by Act 19/2007 wef 07/05/2007*]
 
  
- 5. For the purposes of subsection (1)(*a*) — 
- <br>
+ 5. For the purposes of subsection (1)(*a*) — <br>
      *a*. [*Deleted by Act 19/2007 wef 07/05/2007*]
      *b*. if the value of the land is increased by reason of the use thereof or of any premises thereon in a manner which could be restrained by any court or is contrary to law or is detrimental to the health of the occupiers of the premises or to public health, the amount of that increase shall not be taken into account;
     *c*. [*Deleted by Act 19/2007 wef 07/05/2007*]
