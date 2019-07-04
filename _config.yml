@@ -38,8 +38,8 @@ faq_url_external: false
 custom_css_path: "/misc/custom.css"
 custom_print_css_path: "/assets/css/print.css"
 
-useful-links_url: "https://staging-isomer-mlaw.netlify.com/useful-links/"
-useful-links_url external: false
+useful_links_url: "https://staging-isomer-mlaw.netlify.com/useful-links/"
+useful_links_url external: false
 
 collections:
   about-us:
