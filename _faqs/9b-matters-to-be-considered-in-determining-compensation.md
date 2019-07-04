@@ -52,12 +52,16 @@ The Appeals Board shall consider *only*  the following matters in determining th
   4. [*Deleted by Act 19/2007 wef 07/05/2007*]
 
  
- 5. For the purposes of subsection (1)(*a*) — <br>
+  5. For the purposes of subsection (1)(*a*) — <br>
      *a*. [*Deleted by Act 19/2007 wef 07/05/2007*]
      *b*. if the value of the land is increased by reason of the use thereof or of any premises thereon in a manner which could be restrained by any court or is contrary to law or is detrimental to the health of the occupiers of the premises or to public health, the amount of that increase shall not be taken into account;<br>
+     
     *c*. [*Deleted by Act 19/2007 wef 07/05/2007*]<br>
+    
     *d*. if any land in respect of which a value has been stated by or with the knowledge or consent of the owner thereof in any affidavit, return or other document required to be made or delivered to any public officer under the provisions of any written law and accepted by him at that value for the purposes of assessing the tax or duty payable thereon where the statement was made within two years of the date of the notification under [section 5(1)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr5-#pr5-) in respect of the land, the market value of the acquired land at the date of the statement shall be deemed not to exceed the value therein contained;<br>
+    
     *e*. the market value of the acquired land shall be deemed not to exceed the price which a bona fide purchaser might reasonably be willing to pay, after taking into account the zoning and density requirements and any other restrictions imposed by or under the Planning Act (Cap. 232) as at the date of acquisition and any restrictive covenants in the title of the acquired land, and no account shall be taken of any potential value of the land for any other use more intensive than that permitted by or under the Planning Act as at the date of acquisition.<br>
+    
     *f*. [*Deleted by Act 19/2007 wef 07/05/2007*] <br>
 
 <div style="text-align: right"> <i> [3/1998 wef 01/04/1998] </i> </div>
