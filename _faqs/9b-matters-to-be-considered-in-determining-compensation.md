@@ -16,28 +16,28 @@ The Appeals Board shall consider *only*  the following matters in determining th
 **Matters to be considered in determining compensation**
 <br>
 **33.** — (1)  In determining the amount of compensation to be awarded for land acquired under this Act, the Board shall take into consideration the following matters and no others: <br><br>
-* where the date of acquisition of the land is on or after 12th February 2007, the market value of the acquired land — <br> <br>
-   * as at the date of the publication of the notification under [section 3(1)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr3-#pr3-) if the notification is, within 6 months from the date of its publication, followed by a declaration made under [section 5](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr5-#pr5-) in respect of the same land or part thereof; or <br>
-   * as at the date of the publication of the declaration made under [section 5](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr5-#pr5-), in any other case;
+* (*a*) where the date of acquisition of the land is on or after 12th February 2007, the market value of the acquired land — <br> <br>
+   * (i) as at the date of the publication of the notification under [section 3(1)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr3-#pr3-) if the notification is, within 6 months from the date of its publication, followed by a declaration made under [section 5](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr5-#pr5-) in respect of the same land or part thereof; or <br>
+   * (ii) as at the date of the publication of the declaration made under [section 5](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr5-#pr5-), in any other case;
 
 
-* any increase in the value of any other land (<b><u>such as contiguous or adjacent land</u></b>) of the person interested likely to accrue from the use to which the land acquired will be put;
-
- 
-
-* the damage, if any, sustained by the person interested at the time of the Collector’s taking possession of the land by reason of severing that land from his other land;
+* (*b*)any increase in the value of any other land (<b><u>such as contiguous or adjacent land</u></b>) of the person interested likely to accrue from the use to which the land acquired will be put;
 
  
 
-* the damage, if any, sustained by the person interested at the time of the Collector’s taking possession of the land by reason of the acquisition injuriously affecting his other property, whether movable or immovable, in any other manner;
+* (*c) the damage, if any, sustained by the person interested at the time of the Collector’s taking possession of the land by reason of severing that land from his other land;
 
  
 
-* if, in consequence of the acquisition, he is compelled to change his residence or place of business, the reasonable expenses, if any, incidental to that change; and
+* (*d*)the damage, if any, sustained by the person interested at the time of the Collector’s taking possession of the land by reason of the a cquisition injuriously affecting his other property, whether movable or immovable, in any other manner;
 
  
 
-* if, in consequence of the acquisition, any reissue of title is necessary, the fees or costs relating to survey, issue and registration of title, stamp duty and such other costs or fees which may reasonably be incurred.
+* (*e*) if, in consequence of the acquisition, he is compelled to change his residence or place of business, the reasonable expenses, if any, incidental to that change; and
+
+ 
+
+* (*f*) if, in consequence of the acquisition, any reissue of title is necessary, the fees or costs relating to survey, issue and registration of title, stamp duty and such other costs or fees which may reasonably be incurred.
 
 <b><u>(2) If the value of any other land of the person interested likely to accrue from the use to which the land acquired will be put is increased, the increase is to be set-off only against the amount of compensation that would otherwise be payable under subsection (1)(c) or (d) or both, where applicable.</u></b>
 
