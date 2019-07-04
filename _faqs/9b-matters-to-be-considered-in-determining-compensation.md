@@ -19,8 +19,8 @@ The Appeals Board shall consider *only*  the following matters in determining th
 
 1. In determining the amount of compensation to be awarded for land acquired under this Act, the Board shall take into consideration the following matters and no others: <br><br>
    *a.* where the date of acquisition of the land is on or after 12th February 2007, the market value of the acquired land — <br> <br>
-      - i. as at the date of the publication of the notification under [section 3(1)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr3-#pr3-) if the notification is, within 6 months from the date of its publication, followed by a declaration made under [section 5](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr5-#pr5-) in respect of the same land or part thereof; or <br><br>
-      - ii. as at the date of the publication of the declaration made under [section 5](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr5-#pr5-), in any other case; <br><br>
+        - i. as at the date of the publication of the notification under [section 3(1)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr3-#pr3-) if the notification is, within 6 months from the date of its publication, followed by a declaration made under [section 5](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr5-#pr5-) in respect of the same land or part thereof; or <br><br>
+        - ii. as at the date of the publication of the declaration made under [section 5](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr5-#pr5-), in any other case; <br><br>      
    *b.* any increase in the value of any other land (<b><u>such as contiguous or adjacent land</u></b>) of the person interested likely to accrue from the use to which the land acquired will be put; <br><br>
    *c.* the damage, if any, sustained by the person interested at the time of the Collector’s taking possession of the land by reason of severing that land from his other land; <br><br>
    *d.* the damage, if any, sustained by the person interested at the time of the Collector’s taking possession of the land by reason of the a cquisition injuriously affecting his other property, whether movable or immovable, in any other manner; <br><br>
@@ -46,7 +46,7 @@ The Appeals Board shall consider *only*  the following matters in determining th
 
 <div style="text-align: right"> <i> [19/2007 wef 07/05/2007] </i> </div> 
 
-6.  For the purposes of this section, the date of acquisition of any land shall be the date of the publication of the notification under [section 5(1)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr5-#pr5-) declaring that that land is needed for the purpose specified in the declaration. <br>
+6. For the purposes of this section, the date of acquisition of any land shall be the date of the publication of the notification under [section 5(1)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr5-#pr5-) declaring that that land is needed for the purpose specified in the declaration. <br>
 
 <div style="text-align: right"> <i> [Act 2/88 wef 12/02/1988] </i> </div>
 
