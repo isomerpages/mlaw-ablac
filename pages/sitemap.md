@@ -1,5 +1,5 @@
 ---
-layout: Left-nav-page
+layout: leftnav-page-content
 title: Sitemap
 permalink: /sitemap/
 breadcrumb: Sitemap
