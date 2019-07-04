@@ -23,7 +23,7 @@ The Appeals Board shall consider *only*  the following matters in determining th
    * ii. as at the date of the publication of the declaration made under [section 5](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr5-#pr5-), in any other case; <br><br>
    
    *b.* any increase in the value of any other land (<b><u>such as contiguous or adjacent land</u></b>) of the person interested likely to accrue from the use to which the land acquired will be put; <br><br>
-    *c.* the damage, if any, sustained by the person interested at the time of the Collector’s taking possession of the land by reason of severing that land from his other land; <br><br>
+    *c.* the damage, if any, sustained by the person interested at the time of the Collector’s taking possession of the land by reason of severing that land from his other land; <br>
     *d.* the damage, if any, sustained by the person interested at the time of the Collector’s taking possession of the land by reason of the a cquisition injuriously affecting his other property, whether movable or immovable, in any other manner; <br><br>
     *e.* if, in consequence of the acquisition, he is compelled to change his residence or place of business, the reasonable expenses, if any, incidental to that change; and <br><br>
     *f.* if, in consequence of the acquisition, any reissue of title is necessary, the fees or costs relating to survey, issue and registration of title, stamp duty and such other costs or fees which may reasonably be incurred.
