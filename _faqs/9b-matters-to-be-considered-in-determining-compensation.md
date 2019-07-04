@@ -31,9 +31,9 @@ The Appeals Board shall consider *only*  the following matters in determining th
  <b><u>2. If the value of any other land of the person interested likely to accrue from the use to which the land acquired will be put is increased, the increase is to be set-off only against the amount of compensation that would otherwise be payable under subsection (1)(c) or (d) or both, where applicable.</u></b>
 
 {:start="2"}
-2. [*Deleted by Act 19/2007 wef 07/05/2007*]
-3. [*Deleted by Act 19/2007 wef 07/05/2007*]
-4. [*Deleted by Act 19/2007 wef 07/05/2007*]
+2. [*Deleted by Act 19/2007 wef 07/05/2007*] <br><br>
+3. [*Deleted by Act 19/2007 wef 07/05/2007*] <br><br>
+4. [*Deleted by Act 19/2007 wef 07/05/2007*] <br><br>
 
  
 5. For the purposes of subsection (1)(*a*) — <br>
