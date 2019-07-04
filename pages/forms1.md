@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
 title: Forms
-permalink: /forms/
-breadcrumb: Forms
+permalink: -
+breadcrumb: -
 collection_name: Forms
 ---
 
