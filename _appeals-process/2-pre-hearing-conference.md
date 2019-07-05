@@ -6,4 +6,7 @@ breadcrumb: Pre-Hearing Conference
 collection_name: appeals-process
 ---
 
+Pre-Hearing Conference
+---
+The Registrar gives notice of a Pre-Hearing Conference ("PHC"). At the PHC, directions may be given and orders may be made for the further conduct of the appeal.
 
