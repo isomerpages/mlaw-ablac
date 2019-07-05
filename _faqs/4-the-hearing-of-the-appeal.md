@@ -37,7 +37,6 @@ For the purpose of determining appeals in respect of any award made by the Colle
 
 When the amount of the compensation has been settled and there is a dispute as to the apportionment of the compensation, the Commissioner sitting alone shall decide the proportions in which the persons claiming an interest in the compensation to be made on account of an acquisition of land under the Land Acquisition Act shall be entitled to.
 <br>
-<br>
 
 ([Section 38(1) of the Land Acquisition Act](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr38-#pr38-)).
 
