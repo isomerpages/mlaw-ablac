@@ -1,4 +1,5 @@
 ---
+title: Case Law
 layout: leftnav-page-content
 permalink: /past-decision/case-law-2/
 breadcrumb: Case Law
