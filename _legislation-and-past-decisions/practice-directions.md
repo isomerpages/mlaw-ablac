@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Practice Directions
-permalink: /legislation-and-past-directions/practice-directions/
+permalink: /legislation-and-past-decisions/practice-directions/
 breadcrumb: Practice Directions
 collection_name: legislation-and-past-directions
 
