@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Case Laws
+title: Case Law
 permalink: /past-decision/case-law-2/
 breadcrumb: Case Law
 collection_name: legislation-and-past-decisions
