@@ -53,7 +53,6 @@ Case Law
     <td>28 Apr 2001</td>
     <td><a href="/files/Decision-TohKaiHoo-AB1999.098.pdf" target="_blank"></a></td>
   </tr>
-</table><br>
   <tr>
     <td>Case Law</td>
     <td>AB 1999.118</td>
