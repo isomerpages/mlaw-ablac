@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Case Law
 permalink: /past-decision/case-law-3/
 breadcrumb: Case Law
-collection_name: past-decision
+collection_name: legislation-and-past-decisions
 ---
 
 Case Law
