@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: List All
-permalink: /past-decision/case-law-2/
+permalink: /past-decision/list-all-2/
 breadcrumb: List All
 collection_name: legislation-and-past-decisions
 second_nav_title: "Past Decisions"
