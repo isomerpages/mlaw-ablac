@@ -160,12 +160,6 @@ List All
   </tr>
 </table><br>
 
-
-  <div class="pagination">
-    <a href="https://mlaw-ablac-staging.netlify.com/hearings-and-decisions/pastdecisions/">1</a>
-    <a href="#">2</a>
-  </div>
-
   <div class="pagination">
     <a class="pagination disabled" href="#">First </a>
     <a class="pagination disabled" href="#">Previous </a>
