@@ -166,3 +166,13 @@ List All
     <a href="#">2</a>
   </div>
 
+  <div class="pagination">
+    <a class="pagination disabled" href="#">First </a>
+    <a class="pagination disabled" href="#">Previous </a>
+    <a class="pagination disabled" href="#">1 </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/past-decision/list-all-2/">2 </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/past-decision/list-all-3/">3 </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/past-decision/list-all-4/">4 </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/past-decision/list-all-2/">Next </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/past-decision/list-all-4/">Last</a>
+  </div>
