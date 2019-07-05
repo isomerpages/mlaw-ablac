@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Types of Cases
+title: Considerations Before Appealing
 permalink: /appeals-process/considerations-before-appealing/
-breadcrumb: Types of Cases
+breadcrumb: Considerations Before Appealing
 collection_name: appeals-process
 ---
 
