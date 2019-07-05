@@ -158,47 +158,7 @@ List All
     <td>7 Mar 2002</td>
     <td><a href="/files/Decision-NgBooTan-AB1999.069(CaseStated).pdf"></a></td>
   </tr>
-  
-  
-  
-  
-  <tr>
-    <td>Case Law</td>
-    <td>AB 1997.012</td>
-    <td>Stage Development Pte Ltd (formerly known as Stage Professional Pte Ltd)</td>
-    <td>21 Aug 2001</td>
-    <td><a href="/files/Decision-StageDevelopmentPteLtd-AB1999.012.pdf" target="_blank"></a></td>
-  </tr>
-  <tr>
-    <td>Landmark Case</td>
-    <td>AB 1996.374</td>
-    <td>Mustaq Ahmad @ Mushtaq Ahmad (s/o Mustaffa)</td>
-    <td>16 Jul 2001</td>
-    <td><a href="/files/Decision-MustaqAhmad@MushtaqAhmad(sonofMustafa)-AB1996.374.pdf"></a></td>
-  </tr>
-  <tr>
-    <td>Case Law</td>
-    <td>AB 1999.177</td>
-    <td>Ng Hui Eng & Tan Lay Tin</td>
-    <td>26 May 2001</td>
-    <td><a href="/files/Decision-NgHuiEng&TanLayTin-AB1999.177.pdf" target="_blank"></a></td>
-  </tr>
-  <tr>
-    <td>Case Law</td>
-    <td>AB 1999.111</td>
-    <td>Tang Chee Meng</td>
-    <td>28 Apr 2001</td>
-    <td><a href="/files/TangCheeMengasadministratoroftheestateofTangHengdeceased.pdf" target="_blank"></a></td>
-  </tr>
-  <tr>
-    <td>Case Law</td>
-    <td>AB 1999.098</td>
-    <td>Toh Kai Hoo</td>
-    <td>28 Apr 2001</td>
-    <td><a href="/files/Decision-TohKaiHoo-AB1999.098.pdf" target="_blank"></a></td>
-  </tr>
 </table><br>
-
 
   <div class="pagination">
     <a href="https://mlaw-ablac-staging.netlify.com/legislation-and-past-decisions/list-all/">First </a>
