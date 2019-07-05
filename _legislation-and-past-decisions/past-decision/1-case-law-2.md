@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Case Law
-permalink: legislation-and-past-decisions/past-decision/case-law-2/
+permalink: /legislation-and-past-decisions/past-decision/case-law-2/
 breadcrumb: Case Law
 collection_name: legislation-and-past-decisions
 second_nav_title: "Past Decisions"
