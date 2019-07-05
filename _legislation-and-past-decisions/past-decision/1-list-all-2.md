@@ -167,14 +167,14 @@ List All
  
  
   <div class="pagination">
-    <a href="https://mlaw-ablac-staging.netlify.com/legislation-and-past-decisions/case-law/">First </a>
-    <a href="https://mlaw-ablac-staging.netlify.com/legislation-and-past-decisions/case-law/">Previous </a>
-    <a href="https://mlaw-ablac-staging.netlify.com/legislation-and-past-decisions/case-law/">1 </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/legislation-and-past-decisions/list-all/">First </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/legislation-and-past-decisions/list-all/">Previous </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/legislation-and-past-decisions/list-all/">1 </a>
     <a class="pagination disabled" href="#">2 </a>
-    <a href="https://mlaw-ablac-staging.netlify.com/past-decision/case-law-3/">3 </a>
-    <a href="https://mlaw-ablac-staging.netlify.com/past-decision/case-law-4/">4 </a>
-    <a href="https://mlaw-ablac-staging.netlify.com/past-decision/case-law-3/">Next </a>
-    <a href="https://mlaw-ablac-staging.netlify.com/past-decision/case-law-4/">Last</a>
+    <a href="https://mlaw-ablac-staging.netlify.com/past-decision/list-all-3/">3 </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/past-decision/list-all-4/">4 </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/past-decision/list-all-3/">Next </a>
+    <a href="https://mlaw-ablac-staging.netlify.com/past-decision/list-all-4/">Last</a>
   </div>
 
 
