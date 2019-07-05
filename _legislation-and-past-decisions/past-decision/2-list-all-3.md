@@ -89,6 +89,13 @@ List All
     <td><a href="/files/Decision-PengHiangFoodIndustriesPteLtd-AB2001.089.pdf" target="_blank"></a></td>
   </tr>
   <tr>
+    <td>Landmark Case</td>
+    <td>AB 2001.072</td>
+    <td>Swee Hong Investment Pte Ltd</td>
+    <td>6 Jan 2003</td>
+    <td><a href="/files/Decision-SweeHongInvestmentPteLtd-AB2001.072.pdf"></a></td>
+  </tr>
+  <tr>
     <td>Case Law</td>
     <td>AB 1997.081</td>
     <td>Shell Eastern Petroleum (Pte) Ltd</td>
@@ -101,6 +108,13 @@ List All
     <td>Unitra Jaya Trading Pte Ltd</td>
     <td>30 Nov 2002	</td>
     <td><a href="/files/Decision-UnitraJayaTradingPteLtd-AB2001.081.pdf" target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td>Landmark Case</td>
+    <td>AB 1999.069</td>
+    <td>Ng Boo Tan</td>
+    <td>26 Oct 2002</td>
+    <td><a href="/files/Decision-NgBooTan-AB1999.069.pdf"></a></td>
   </tr>
   <tr>
     <td>Case Law</td>
@@ -124,6 +138,13 @@ List All
     <td><a href="/files/Decision-SyedTahabinSalimAlbar&Others-AB1997.087.pdf" target="_blank"></a></td>
   </tr>
   <tr>
+    <td>Landmark Case</td>
+    <td>AB 1996.374	</td>
+    <td>Mustaq Ahmad @ Mushtaq Ahmad (s/o Mustafa)</td>
+    <td>25 Apr 2002</td>
+    <td><a href="/files/Decision-MustaqAhmad@MushtaqAhmad(sonofMustaffa)-22January2002-AB1996.374.pdf"></a></td>
+  </tr>
+  <tr>
     <td>Case Law</td>
     <td>AB 2001.088</td>
     <td>Lau Huai Eng</td>
@@ -131,11 +152,29 @@ List All
     <td><a href="/files/Decision-LauHuaiEng-AB2001.088.pdf" target="_blank"></a></td>
   </tr>
   <tr>
+    <td>Landmark Case</td>
+    <td>AB 1999.069 (Case Stated)</td>
+    <td>Ng Boo Tan</td>
+    <td>7 Mar 2002</td>
+    <td><a href="/files/Decision-NgBooTan-AB1999.069(CaseStated).pdf"></a></td>
+  </tr>
+  
+  
+  
+  
+  <tr>
     <td>Case Law</td>
     <td>AB 1997.012</td>
     <td>Stage Development Pte Ltd (formerly known as Stage Professional Pte Ltd)</td>
     <td>21 Aug 2001</td>
     <td><a href="/files/Decision-StageDevelopmentPteLtd-AB1999.012.pdf" target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td>Landmark Case</td>
+    <td>AB 1996.374</td>
+    <td>Mustaq Ahmad @ Mushtaq Ahmad (s/o Mustaffa)</td>
+    <td>16 Jul 2001</td>
+    <td><a href="/files/Decision-MustaqAhmad@MushtaqAhmad(sonofMustafa)-AB1996.374.pdf"></a></td>
   </tr>
   <tr>
     <td>Case Law</td>
