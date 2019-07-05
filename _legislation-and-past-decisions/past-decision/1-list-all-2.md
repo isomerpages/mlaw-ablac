@@ -7,10 +7,6 @@ collection_name: legislation-and-past-decisions
 second_nav_title: "Past Decisions"
 ---
 
-<style>
- .second-level-nav-item {display: hidden}
-</style>
-
 List All
 ---
 
