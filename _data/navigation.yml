@@ -19,75 +19,43 @@
     url: /about-us/organisation-structure/
   - title: Contact Info
     url: /about-us/contact-info/
-    
-- title: Legislation
-  url: /legislation/land-acquistion-act/
-  sub-links:
-  - title: Land Acquistion Act
-    url: /legislation/land-acquistion-act/
-  - title: Land Acquisition (Appeals Board) Regulations
-    url: /legislation/land-acquisition--appeals-board--regulations/
-  - title: Practice Directions
-    url: /legislation/practice-directions/
-    
-- title: Services
-  url: /services/hearing-of-appeal/
-  sub-links:
-  - title: Hearing of Appeal
-    url: /services/hearing-of-appeal/
-  - title: Pre-Hearing Conference
-    url: /services/pre-hearing-conference/
-  - title: e-Pre-Hearing Conference
-    url: /services/e-pre-hearing-conference/
-  - title: Digital Transcription Services
-    url: /services/digital-transcription-services/
-  - title: Processing of Court Documents
-    url: /services/processing-of-court-documents/
-  - title: Mediation in Land Acquisition Appeals Scheme
-    url: /services/mediation-in-land-acquisition-appeals-scheme/
-  - title: Sale of Past Decisions
-    url: /services/sale-of-past-decisions/
-  - title: Fees
-    url: /services/fees/
 
-- title: Hearings And Decisions
-  url: /hearings-and-decisions/hearing-list/
+- title: Appeals Process
+  url: ///
+  sub-links:
+  - title: Considerations Before Appealing
+    url: ///
+  - title: Making an Appeal
+    url: ///
+  - title: Pre-Hearing Conference
+    url: ///
+  - title: Hearing of the Appeal
+    url: ///
+  - title: Decision by the Board
+    url: ///
+
+- title: Hearing Lists
+  url: ///
   sub-links:
   - title: Hearing List
-    url: /hearings-and-decisions/hearing-list/
-  - title: Pre-Hearing Conference
-    url: /hearings-and-decisions/pre-hearing-conference/
-  - title: Past Decisions
-    url: /hearings-and-decisions/list-all/
+    url: ///
+  - title: Pre-Hearing Conference List
+    url: ///
 
 - title: Forms
   url: /forms/
 
-- title: FAQs
-  url: /faqs/types-of-cases/
+- title: Legislation and Past Decisions
+  url: ///
   sub-links:
-  - title: Types of Cases
+  - title: Land Acquisition Act
     url: /faqs/types-of-cases/
-  - title: Procedure of Appeal
+  - title: Land Acquisition (Appeals Board) Regulations
     url: /faqs/procedure-of-appeal/
-  - title: Appeal Deposit
+  - title: Practice Directions
     url: /faqs/appeal-deposit/
-  - title: Pre-Hearing Conference
-    url: /faqs/pre-hearing-conference/
-  - title: Hearing of the Appeal
-    url: /faqs/the-hearing-of-the-appeal/
-  - title: Costs of Appeal
-    url: /faqs/costs-of-appeal/
-  - title: Appeal Against a Decision of the Appeals Board
-    url: /faqs/appeal-against-a-decision-of-the-appeals-board/
-  - title: Withdrawal of Appeal
-    url: /faqs/withdrawal-of-appeal/
-  - title: Miscellaneous
-    url: /faqs/miscellaneous/
-  - title: Matters to be disregarded in determining compensation
-    url: /faqs/matters-to-be-disregarded-in-determining-compensation/
-  - title: Matters to be considered in determining compensation
-    url: /faqs/matters-to-be-considered-in-determining-compensation/
+  - title: Past Decisions
+    url: ///
 
 - title: Glossary
   url: /glossary/
