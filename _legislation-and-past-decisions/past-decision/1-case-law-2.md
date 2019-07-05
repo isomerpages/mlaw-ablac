@@ -3,6 +3,7 @@ layout: leftnav-page-content
 title: Case Law
 permalink: /past-decision/case-law-2/
 breadcrumb: Case Law
+collection-name: past-decision
 second_nav_title: "Past Decisions"
 ---
 
