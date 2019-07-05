@@ -53,7 +53,7 @@ collections:
   forms:
     output: true
   faqs:
-    output: true
+    hidden: true
   glossary:
     output: true
 resources_name: resource-room
