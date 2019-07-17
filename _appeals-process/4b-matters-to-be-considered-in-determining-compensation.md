@@ -56,7 +56,7 @@ The Appeals Board shall consider only the following matters in determining the a
 <p>(5)  For the purposes of subsection (1)(a) —</p>
 
 <ol class="alphabet">
-  <li>[Deleted by Act 19/2007 wef 07/05/2007</i>]</li><br>
+  <li>[<i>Deleted by Act 19/2007 wef 07/05/2007</i>]</li><br>
   <li>if the value of the land is increased by reason of the use thereof or of any premises thereon in a manner which could be restrained by any court or is contrary to law or is detrimental to the health of the occupiers of the premises or to public health, the amount of that increase shall not be taken into account;</li><br>
   <li>[<i>Deleted by Act 19/2007 wef 07/05/2007</i>]</li><br>
   <li>if any land in respect of which a value has been stated by or with the knowledge or consent of the owner thereof in any affidavit, return or other document required to be made or delivered to any public officer under the provisions of any written law and accepted by him at that value for the purposes of assessing the tax or duty payable thereon where the statement was made within two years of the date of the notification under section 5(1) in respect of the land, the market value of the acquired land at the date of the statement shall be deemed not to exceed the value therein contained;</li><br>
