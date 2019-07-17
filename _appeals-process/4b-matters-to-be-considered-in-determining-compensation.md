@@ -16,7 +16,7 @@ second_nav_title: Decision by the Board
 Matters to be considered in determining compensation
 ---
 
-**The matters which the Appeals Board shall take into account in determining how much compensation should be awarded for the compulsory acquisition of my land?**
+**The matters which the Appeals Board shall take into account in determining how much compensation should be awarded for the compulsory acquisition of my land?**<br>
 The Appeals Board shall consider only the following matters in determining the amount of compensation for land acquired under the Act (<u>please note that the words underlined and in bold are applicable only in respect of land acquired after 7 July 2014</u>):
 
 **Matters to be considered in determining compensation**<br>
