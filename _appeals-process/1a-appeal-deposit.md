@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Appeal Deposit
-permalink: /appeals-process/considerations-before-appealing/appeal-deposit
+permalink: /appeals-process/making-an-appeal/appeal-deposit
 breadcrumb: Appeal Deposit
 collection_name: appeals-process
 second_nav_title: "Making an Appeal"
