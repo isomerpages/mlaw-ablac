@@ -12,6 +12,7 @@ second_nav_title: Decision by the Board
   ol.roman {list-style-type: lower-roman;}
   ol li p.float{float: right;}
   p.float{float: right;}
+  p {text-indent: 1.5em;} 
 </style>
 Matters to be considered in determining compensation
 ---
@@ -28,7 +29,7 @@ The Appeals Board shall consider only the following matters in determining the a
     <p>where the date of acquisition of the land is on or after 12th February 2007, the market value of the acquired land —</p>
     <ol class="roman">
       <li>
-        <p>as at the date of the publication of the notification under <a href="https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr3-#pr3-">section 3(1)</a> if the notification is, within 6 months from the date of its publication, followed by a declaration made under <a href="https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr5-#pr5-">section 5</a> in respect of the same land or part thereof; or</p><br>
+        <p>as at the date of the publication of the notification under <a href="https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr3-#pr3-">section 3(1)</a> if the notification is, within 6 months from the date of its publication, followed by a declaration made under <a href="https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr5-#pr5-">section 5</a> in respect of the same land or part thereof; or</p>
       </li>
       <li>
         <p>as at the date of the publication of the declaration made under <a href="https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr5-#pr5-">section 5</a>, in any other case;</p>
