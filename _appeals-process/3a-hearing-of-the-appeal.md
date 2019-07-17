@@ -49,7 +49,6 @@ The Appeals Board may confirm, reduce, increase or annul the award by the Collec
 ([Section 27(3) of the Land Acquisition Act](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr27-#pr27-)).
 
 **What happens on the date of the appeal hearing?**
-
 By the time your appeal is fixed for hearing before the Appeals Board, directions would have been given by the Registrar at pre-hearing conferences for exchange of expert reports, witness statements, and/or written submissions, if required.  On the date of the hearing, you or your lawyer will be entitled to raise the appropriate arguments in support of your case.  The Collector of Land Revenue will be called upon to respond to the arguments made by you or your lawyer.
 
 If you fail to make out a case to show on the face of your case that the Collector of Land Revenue's award is inadequate, the Appeals Board may dismiss the appeal without calling upon the Collector of Land Revenue to make submissions [(Regulations 11(2) of the Land Acquisition (Appeals Board) Regulations)](/files/Regulations110quisitionAppealsBoardRegulations.pdf/).
