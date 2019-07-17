@@ -10,10 +10,10 @@ second_nav_title: Decision by the Board
 Matters to be disregarded in determining compensation
 ---
 
-**The matters which the Appeals Board shall take into account in determining how much compensation should be awarded for the compulsory acquisition of my land?**
+**The matters which the Appeals Board shall take into account in determining how much compensation should be awarded for the compulsory acquisition of my land?**<br>
 The factors which shall not be taken into consideration have been set out in section 34 of the Land Acquisition Act, which are as follows:
 
-**Matters to be disregarded in determining compensation**
+**Matters to be disregarded in determining compensation**<br>
 In determining the amount of compensation to be awarded for land acquired under this Act, the Board shall not take into consideration —
 
 (a) the degree of urgency which has led to the acquisition;
