@@ -20,6 +20,7 @@ The Appeals Board shall consider only the following matters in determining the a
 
 **Matters to be considered in determining compensation**
 
+{:start="33"} 
 33. —(1)  In determining the amount of compensation to be awarded for land acquired under this Act, the Board shall take into consideration the following matters and no others:
 
 <ol class="alphabet">
@@ -41,6 +42,14 @@ The Appeals Board shall consider only the following matters in determining the a
   <li>if, in consequence of the acquisition, any reissue of title is necessary, the fees or costs relating to survey, issue and registration of title, stamp duty and such other costs or fees which may reasonably be incurred.</li> 
 </oL><br>
 
+{:start="2"} 
+<b><u>(2) If the value of any other land of the person interested likely to accrue from the use to which the land acquired will be put is increased, the increase is to be set-off only against the amount of compensation that would otherwise be payable under subsection (1)(c) or (d) or both, where applicable.</u></b><br>
 
-(2) If the value of any other land of the person interested likely to accrue from the use to which the land acquired will be put is increased, the increase is to be set-off only against the amount of compensation that would otherwise be payable under subsection (1)(c) or (d) or both, where applicable.
+(2) [Deleted by Act 19/2007 wef 07/05/2007]
+
+(3) [Deleted by Act 19/2007 wef 07/05/2007]
+
+(4) [Deleted by Act 19/2007 wef 07/05/2007]
+
+(5)  For the purposes of subsection (1)(a) —
 
