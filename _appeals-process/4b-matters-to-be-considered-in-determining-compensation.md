@@ -23,7 +23,7 @@ The Appeals Board shall consider only the following matters in determining the a
 **Matters to be considered in determining compensation**
 
 {:start="33"} 
-**33.** <p>—(1)  In determining the amount of compensation to be awarded for land acquired under this Act, the Board shall take into consideration the following matters and no others:</p>
+**33.** —(1)  In determining the amount of compensation to be awarded for land acquired under this Act, the Board shall take into consideration the following matters and no others:
 
 <ol class="alphabet">
   <li>
@@ -53,7 +53,7 @@ The Appeals Board shall consider only the following matters in determining the a
 
 <p>(4) [Deleted by Act 19/2007 wef 07/05/2007]</p>
 
-<p>(5)  For the purposes of subsection (1)(a)</p> —
+<p>(5)  For the purposes of subsection (1)(a) —</p>
 
 <ol class="alphabet">
   <li>[Deleted by Act 19/2007 wef 07/05/2007]</li><br>
