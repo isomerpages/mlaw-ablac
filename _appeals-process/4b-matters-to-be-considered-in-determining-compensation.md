@@ -63,8 +63,8 @@ The Appeals Board shall consider only the following matters in determining the a
   <li>the market value of the acquired land shall be deemed not to exceed the price which a bona fide purchaser might reasonably be willing to pay, after taking into account the zoning and density requirements and any other restrictions imposed by or under the Planning Act (Cap. 232) as at the date of acquisition and any restrictive covenants in the title of the acquired land, and no account shall be taken of any potential value of the land for any other use more intensive than that permitted by or under the Planning Act as at the date of acquisition.</li><br>
   <li>
     [Deleted by Act 19/2007 wef 07/05/2007]<br>
-    <p class="float"><i>[3/1998 wef 01/04/1998]<br>[19/2007 wef 07/05/2007]</i></p>
-  </li>
+    <p class="float"><i>[3/1998 wef 01/04/1998]<br>[19/2007 wef 07/05/2007]</i></p><br>
+  </li><br>
 </ol><br>
 
 <p>(6) For the purposes of this section, the date of acquisition of any land shall be the date of the publication of the notification under <a href="https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr5-#pr5-">section 5(1)</a> declaring that that land is needed for the purpose specified in the declaration.</p>
