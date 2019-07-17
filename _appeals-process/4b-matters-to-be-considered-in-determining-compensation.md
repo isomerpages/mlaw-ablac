@@ -11,6 +11,7 @@ second_nav_title: Decision by the Board
   ol.alphabet {list-style-type: lower-alpha;}
   ol.roman {list-style-type: lower-roman;}
   ol li p.float{float: right;}
+  p.float{float: right;}
 </style>
 Matters to be considered in determining compensation
 ---
