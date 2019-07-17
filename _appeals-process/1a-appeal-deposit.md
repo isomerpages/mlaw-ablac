@@ -21,7 +21,7 @@ An appeal deposit must be one-third of the award, or $5,000, whichever is lower 
 <br>
 Amount of award = $14,000.
 
-One-third of the award = 1/3 x $14,000 = $4,666.66667, which should be rounded down to the nearest cent, ie, $4,666.66
+One-third of the award = 1/3 x $14,000 = $4,666.66667, which should be rounded down to the nearest cent, *ie*, $4,666.66
 
 Since $4,666.66 is less than $5,000, the appeal deposit required is $4,666.66.
 
@@ -29,7 +29,7 @@ Since $4,666.66 is less than $5,000, the appeal deposit required is $4,666.66.
 <br>
 Amount of award = $100,000
 
-One-third of the award = 1/3 x $100,000 = $33,333.33..., which should be rounded down to the nearest cent, ie, $33,333.33.
+One-third of the award = 1/3 x $100,000 = $33,333.33..., which should be rounded down to the nearest cent, *ie*, $33,333.33.
 
 Since $33,333.33 is greater than $5,000, the appeal deposit required is $5,000.
 
