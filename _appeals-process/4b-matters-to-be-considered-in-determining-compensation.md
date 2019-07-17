@@ -53,7 +53,7 @@ The Appeals Board shall consider only the following matters in determining the a
 
 <p>(4) [<i>Deleted by Act 19/2007 wef 07/05/2007</i>]</p>
 
-<p>(5)  For the purposes of subsection (1)(a) —</p>
+<p>(5)  For the purposes of subsection (1)(<i>a</i>) —</p>
 
 <ol class="alphabet">
   <li>[<i>Deleted by Act 19/2007 wef 07/05/2007</i>]</li><br>
