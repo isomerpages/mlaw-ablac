@@ -4,6 +4,7 @@ title: Hearing of the Appeal
 permalink: /appeals-process/hearing-of-the-appeal/
 breadcrumb: Hearing of the Appeal
 collection_name: appeals-process
+second_nav_title: Hearing of the Appeal
 ---
 
 Hearing of the Appeal
