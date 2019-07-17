@@ -10,7 +10,7 @@ second_nav_title: Decision by the Board
 <style>
   ol.alphabet {list-style-type: lower-alpha;}
   ol.roman {list-style-type: lower-roman;}
-  p.float{float: right;}
+  ol li p.float{float: right;}
 </style>
 Matters to be considered in determining compensation
 ---
@@ -60,7 +60,10 @@ The Appeals Board shall consider only the following matters in determining the a
   <li>[Deleted by Act 19/2007 wef 07/05/2007]</li><br>
   <li>if any land in respect of which a value has been stated by or with the knowledge or consent of the owner thereof in any affidavit, return or other document required to be made or delivered to any public officer under the provisions of any written law and accepted by him at that value for the purposes of assessing the tax or duty payable thereon where the statement was made within two years of the date of the notification under section 5(1) in respect of the land, the market value of the acquired land at the date of the statement shall be deemed not to exceed the value therein contained;</li><br>
   <li>the market value of the acquired land shall be deemed not to exceed the price which a bona fide purchaser might reasonably be willing to pay, after taking into account the zoning and density requirements and any other restrictions imposed by or under the Planning Act (Cap. 232) as at the date of acquisition and any restrictive covenants in the title of the acquired land, and no account shall be taken of any potential value of the land for any other use more intensive than that permitted by or under the Planning Act as at the date of acquisition.</li><br>
-  <li>[Deleted by Act 19/2007 wef 07/05/2007]</li>
+  <li>
+    [Deleted by Act 19/2007 wef 07/05/2007]<br>
+    <p class="float"><i>[3/1998 wef 01/04/1998]<br>[19/2007 wef 07/05/2007]</i></p><br><br>
+  </li>
 </ol>
 
 <p class="float"><i>[3/1998 wef 01/04/1998]<br>[19/2007 wef 07/05/2007]</i></p><br><br>
