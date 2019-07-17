@@ -4,6 +4,7 @@ title: Pre-Hearing Conference
 permalink: /appeals-process/pre-hearing-conference/
 breadcrumb: Pre-Hearing Conference
 collection_name: appeals-process
+second_nav_title: Pre-Hearing Conference
 ---
 
 Pre-Hearing Conference
