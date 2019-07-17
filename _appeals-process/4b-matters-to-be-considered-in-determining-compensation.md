@@ -64,7 +64,7 @@ The Appeals Board shall consider only the following matters in determining the a
   <li>
     [Deleted by Act 19/2007 wef 07/05/2007]<br>
     <p class="float"><i>[3/1998 wef 01/04/1998]<br>[19/2007 wef 07/05/2007]</i></p><br>
-  </li><br>
+  </li>
 </ol><br>
 
 <p>(6) For the purposes of this section, the date of acquisition of any land shall be the date of the publication of the notification under <a href="https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr5-#pr5-">section 5(1)</a> declaring that that land is needed for the purpose specified in the declaration.</p>
