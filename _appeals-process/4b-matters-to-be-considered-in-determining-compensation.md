@@ -47,7 +47,7 @@ The Appeals Board shall consider only the following matters in determining the a
 {:start="2"} 
 <b><u>(2) If the value of any other land of the person interested likely to accrue from the use to which the land acquired will be put is increased, the increase is to be set-off only against the amount of compensation that would otherwise be payable under subsection (1)(c) or (d) or both, where applicable.</u></b><br>
 
-<p>(2) [Deleted by Act 19/2007 wef 07/05/2007]</p></p>
+<p>(2) [Deleted by Act 19/2007 wef 07/05/2007]</p>
 
 <p>(3) [Deleted by Act 19/2007 wef 07/05/2007]</p>
 
@@ -67,6 +67,6 @@ The Appeals Board shall consider only the following matters in determining the a
   </li>
 </ol><br>
 
-<p>(6) For the purposes of this section, the date of acquisition of any land shall be the date of the publication of the notification under [section 5(1)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr5-#pr5-) declaring that that land is needed for the purpose specified in the declaration.</p>
+<p>(6) For the purposes of this section, the date of acquisition of any land shall be the date of the publication of the notification under <a href="https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr5-#pr5-">section 5(1)</a> declaring that that land is needed for the purpose specified in the declaration.</p>
 
 <p class="float"><i>[Act 2/88 wef 12/02/1988]</i></p>
