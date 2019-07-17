@@ -9,16 +9,6 @@ second_nav_title: "Making an Appeal"
 Appeal Deposit
 ---
 
----
-layout: leftnav-page-content
-title: Appeal Deposit
-permalink: /faqs/appeal-deposit/
-breadcrumb: Appeal Deposit
-collection_name: faqs
----
-
-Appeal Deposit
----
 **Will my appeal deposit be used for making any payments relating to my appeal and if so, what are these payments?**
 <br>
 The appeal deposit is a payment to the Accountant-General, as security for costs of your appeal.  The money will be banked into the Accountant-General's account.  If the Appeals Board orders you at the end of the hearing of your appeal to pay [costs of the appeal](/files/FAQ-Q17.pdf) to the Collector of Revenue, the deposit may be used to satisfy the costs order.
