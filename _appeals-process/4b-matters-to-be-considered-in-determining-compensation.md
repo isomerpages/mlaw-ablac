@@ -8,8 +8,8 @@ second_nav_title: Decision by the Board
 ---
 
 <style>
-  .alphabet {list-style-type: lower-alpha;}
-  .roman {list-style-type: lower-roman;}
+  ol.alphabet {list-style-type: lower-alpha;}
+  ol.roman {list-style-type: lower-roman;}
 </style>
 Matters to be considered in determining compensation
 ---
