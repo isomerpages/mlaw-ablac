@@ -54,5 +54,5 @@ The Notice of Appeal must be lodged within 14 days (if the date of acquisition i
 <br>
 The appeal which you have lodged shall be deemed by law to have been withdrawn. That means that the appeal may not be allowed to proceed ([section 24(b) of the Land Acquisition Act](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr24-#pr24-)). If you require an extension of time to file your Petition of Appeal after the 14 or 28-day (as the case may be) deadline imposed by section 23(1)(c) of the Land Acquisition Act, you would have to take out the appropriate interlocutory application for extension of time. The time stipulated in section 23(1)(c) *may* be extended by the Appeals Board in its discretion and on such terms as it may see fit, if it is shown to the satisfaction of the Appeals Board that you were prevented from lodging the Petition of Appeal in due time owing to absence from Singapore, sickness or other reasonable cause, and that there has been no unreasonable delay on your part. <br>
 
-[Click here for timeline](https://mlaw-ablac-staging.netlify.com/faqs/timeline/) 
+[Click here for timeline](https://mlaw-ablac-staging.netlify.com/appeals-process/considerations-before-appealing/timeline/){:target="_blank"}
 
