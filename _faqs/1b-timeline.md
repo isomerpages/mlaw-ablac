@@ -1,9 +1,9 @@
 ---
-layout: leftnav-page-content
+layout: simple-page
 title: Timeline
-permalink: /faqs/timeline/
+permalink: /appeals-process/considerations-before-appealing/
 breadcrumb: Timeline
-collection_name: faqs
+collection_name: appeals-process
 ---
 
 Timeline
