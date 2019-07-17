@@ -12,8 +12,8 @@ second_nav_title: Decision by the Board
   ol.roman {list-style-type: lower-roman;}
   ol li p.float{float: right;}
   p.float{float: right;}
-  ol.alphabet li p{line-height: 1.5em;} 
-  ol.roman li p{line-height: 1.5em;} 
+  ol.alphabet li{line-height: 2em;} 
+  ol.roman li{line-height: 2em;} 
 </style>
 Matters to be considered in determining compensation
 ---
