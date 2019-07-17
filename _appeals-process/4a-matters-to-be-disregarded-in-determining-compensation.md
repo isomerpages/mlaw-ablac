@@ -7,7 +7,7 @@ collection_name: appeals-process
 second_nav_title: Decision by the Board 
 ---
 
-Matters to be disregarded in determining compensationttt
+Matters to be disregarded in determining compensation
 ---
 
 **The matters which the Appeals Board shall take into account in determining how much compensation should be awarded for the compulsory acquisition of my land?**
