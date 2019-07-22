@@ -54,7 +54,7 @@ See [section 23(1)(b)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr23-#pr23-).
 
 The Board may in its discretion allow the Appellant to proceed with his appeal notwithstanding that the deposit is not made or authorised in time.
 * Download [Notice of Appeal (Form 1) and Letter of Authorisation (Form 2)](/files/Form-NOA.pdf)
-* See also [Practice Direction No 2 of 2001](https://mlaw-ablac-staging.netlify.com/legislation/practice-directions/)
+* See also [Practice Direction No 2 of 2001](https://mlaw-ablac-staging.netlify.com/legislation-and-past-decisions/practice-directions/)
 
 ##### **3. Collector lodges Grounds of Award**
 The Collector lodges with the Registrar his Grounds of Award. 
@@ -83,7 +83,7 @@ Where the Award is $500 000 or more, the Board may also appoint a mediator if it
 
 The mediator will be appointed from the panel of assessors. 
 
-See [Practice Direction No. 1 of 2009](https://mlaw-ablac-staging.netlify.com/legislation/practice-directions/).
+See [Practice Direction No. 1 of 2009](https://mlaw-ablac-staging.netlify.com/legislation-and-past-decisions/practice-directions/).
 
 ##### **6. Registrar gives Notice of Pre-Hearing/e-Pre-Hearing Conference**
 <u>Pre-Hearing Conference</u>
