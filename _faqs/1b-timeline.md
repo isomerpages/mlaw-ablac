@@ -30,7 +30,7 @@ The person interested who intends to appeal to the Board (“Appellant”) lodge
 
 See [section 23(1)(a)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr23-#pr23-). 
 * the place at which all documents are lodged with the Registrar is the Registry of the Board.
-* Download [Notice of Appeal](/files/Form-NOA.pdf){:target="_blank"}
+* Download [Notice of Appeal](/files/Form-NOA.pdf){:target="_blank"}(23.6 KB)
 <br>
 The Registrar forwards a copy of the Notice of Appeal to the Collector. 
 <br>
@@ -53,7 +53,7 @@ See [section 23(1)(b)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr23-#pr23-).
 <br>
 
 The Board may in its discretion allow the Appellant to proceed with his appeal notwithstanding that the deposit is not made or authorised in time.
-* Download [Notice of Appeal (Form 1) and Letter of Authorisation (Form 2)](/files/Form-NOA.pdf)
+* Download [Notice of Appeal (Form 1) and Letter of Authorisation (Form 2)](/files/Form-NOA.pdf)(23.6 KB)
 * See also [Practice Direction No 2 of 2001](https://mlaw-ablac-staging.netlify.com/legislation-and-past-decisions/practice-directions/)
 
 ##### **3. Collector lodges Grounds of Award**
@@ -72,7 +72,7 @@ Except with the consent of the Board, the Appellant may not rely on any grounds 
 
 See [section 23(4)](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr23-#pr23-). 
 
-* Download form for [Petition of Appeal (Form 7)](/files/Form-POA-Sept09.pdf){:target="_blank"}
+* Download form for [Petition of Appeal (Form 7)](/files/Form-POA-Sept09.pdf){:target="_blank"}(23.6 KB)
 
 ##### **5. Parties may lodge Consent to Mediation under MiLAAS**
 Parties to an appeal before the Board may refer to mediation under the Mediation in Land Acquisition Appeals Scheme by lodging a Consent to Mediation.
