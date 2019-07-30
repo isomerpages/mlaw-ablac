@@ -23,7 +23,7 @@ The procedure at the hearing of any proceedings shall be such as Appeals Board m
 (b)  the Appeals Board shall take note of all evidence and exhibits put in evidence at the hearing.
 <br>
 
-([Regulation 11(1) of the Land Acquisition (Appeals Board) Regulations](/files/Regulation11-Procedureathearing.pdf)).
+([Regulation 11(1) of the Land Acquisition (Appeals Board) Regulations](/files/Regulation11-Procedureathearing.pdf))(KB).
 
 **What is the constitution of the Appeals Board?**
 <br>
