@@ -51,7 +51,7 @@ The Appeals Board may confirm, reduce, increase or annul the award by the Collec
 **What happens on the date of the appeal hearing?**<br>
 By the time your appeal is fixed for hearing before the Appeals Board, directions would have been given by the Registrar at pre-hearing conferences for exchange of expert reports, witness statements, and/or written submissions, if required.  On the date of the hearing, you or your lawyer will be entitled to raise the appropriate arguments in support of your case.  The Collector of Land Revenue will be called upon to respond to the arguments made by you or your lawyer.
 
-If you fail to make out a case to show on the face of your case that the Collector of Land Revenue's award is inadequate, the Appeals Board may dismiss the appeal without calling upon the Collector of Land Revenue to make submissions [(Regulations 11(2) of the Land Acquisition (Appeals Board) Regulations)](/files/Regulations110quisitionAppealsBoardRegulations.pdf/)(12KB).
+If you fail to make out a case to show on the face of your case that the Collector of Land Revenue's award is inadequate, the Appeals Board may dismiss the appeal without calling upon the Collector of Land Revenue to make submissions ([Regulations 11(2) of the Land Acquisition (Appeals Board) Regulations](/files/Regulations110quisitionAppealsBoardRegulations.pdf/)(12KB)).
 
 After hearing all the arguments made, the Appeals Board will then give its written decision on whether to confirm, reduce, increase or annul the award, or make such order as it deems fit.
 
