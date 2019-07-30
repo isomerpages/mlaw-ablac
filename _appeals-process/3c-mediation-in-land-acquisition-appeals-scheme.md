@@ -14,4 +14,4 @@ Parties to an appeal before the Appeals Board may now refer to mediation under t
 
 MiLAAS was launched on 16 February 2009 and currently is available where the Collector's award is less than $500 000 and the land affected is residential (e.g. an HDB flat).
 
-[See Practice Direction No. 1 of 2009](/files/PracticeDirection-PD1-2009-MiLAAS-21Aug09.doc1.pdf/)(17.1KB).
+[See Practice Direction No. 1 of 2009](/files/PracticeDirection-PD1-2009-MiLAAS-21Aug09.doc1.pdf/) (17.1KB).
