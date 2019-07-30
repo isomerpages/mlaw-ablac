@@ -19,7 +19,7 @@ In order to be entitled to appeal to the Appeals Board against the Collector of 
 <br>
 You may appeal to the Appeals Board against the award of the Collector of Land Revenue ("Collector") by: <br> 
 
-(a)   lodging with the Registrar two copies of the completed [notice of appeal](/files/Form-NOA.pdf) within 14 days (if the date of acquisition is before 29 September 2014) or 28 days (if the date of acquisition is on or after 29 September 2014) after the date you receive the Collector's award; and <br>
+(a)   lodging with the Registrar two copies of the completed [notice of appeal](/files/Form-NOA.pdf)(23.6 KB) within 14 days (if the date of acquisition is before 29 September 2014) or 28 days (if the date of acquisition is on or after 29 September 2014) after the date you receive the Collector's award; and <br>
 
 (b)   either: 
 <br> 
@@ -29,18 +29,18 @@ You may appeal to the Appeals Board against the award of the Collector of Land R
 <br>
  ii.   authorising the Collector to deposit with the Accountant-General, <br> 
 <br>
-    within 14 days (if the date of acquisition is before 29 September 2014) or 28 days (if the date of acquisition is on or after 29 September 2014) after the date of receiving the Collector's award, <a href="/files/FAQ-Q9.pdf">a sum equivalent to one-third the amount of the  </a><u>award</u>, or $5,000, whichever is lesser, unless the Collector has waived in writing the requirement of an appeal deposit; and
+    within 14 days (if the date of acquisition is before 29 September 2014) or 28 days (if the date of acquisition is on or after 29 September 2014) after the date of receiving the Collector's award, <a href="/files/FAQ-Q9.pdf">(14.1 KB)a sum equivalent to one-third the amount of the  </a><u>award</u>, or $5,000, whichever is lesser, unless the Collector has waived in writing the requirement of an appeal deposit; and
 </ol>
 
        
 
-(c)   thereafter, two copies of the [petition of appeal](/files/FAQ-Q4.pdf) must be lodged with the Registrar within 14 days (if the date of acquisition is before 29 September 2014) or 28 days (if the date of acquisition is on or after 29 September 2014) after the date on which the Collector of Land Revenue's [grounds of award](/files/FAQ-Q5.pdf) have been served on you. <br>
+(c)   thereafter, two copies of the [petition of appeal](/files/FAQ-Q4.pdf)(11.9 KB) must be lodged with the Registrar within 14 days (if the date of acquisition is before 29 September 2014) or 28 days (if the date of acquisition is on or after 29 September 2014) after the date on which the Collector of Land Revenue's [grounds of award](/files/FAQ-Q5.pdf)(11.5 KB) have been served on you. <br>
 
 ([Section 23(1)(a), (b) and (c) of the Land Acquisition Act](https://sso.agc.gov.sg/Act/LAA1966?ProvIds=pr23-#pr23-)). <br>
 
 **What is a petition of appeal?** 
 <br>
-The [petition of appeal](/files/Form-PoA-lpl-2Sep09.pdf) is a document which must be lodged in after the Collector of Land Revenue's Grounds of Award has been served upon you, stating the grounds of your appeal.<br>
+The [petition of appeal](/files/Form-PoA-lpl-2Sep09.pdf)(12.2 KB) is a document which must be lodged in after the Collector of Land Revenue's Grounds of Award has been served upon you, stating the grounds of your appeal.<br>
 
 **What is the Collector of Land Revenue's grounds of award?** 
 <br>
