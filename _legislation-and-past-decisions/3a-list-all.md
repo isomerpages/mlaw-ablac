@@ -38,23 +38,23 @@ li{
   <li>|</li>
   <li><a href="#2010">2010</a></li>
   <br>
-  <li><a href="#2009">2019</a></li>
+  <li><a href="#2009">2009</a></li>
   <li>|</li>
-  <li><a href="#2008">2018</a></li>
+  <li><a href="#2008">2008</a></li>
   <li>|</li>
-  <li><a href="#2007">2017</a></li>
+  <li><a href="#2007">2007</a></li>
   <li>|</li>
-  <li><a href="#2006">2016</a></li>
+  <li><a href="#2006">2006</a></li>
   <li>|</li>
-  <li><a href="#2005">2015</a></li>
+  <li><a href="#2005">2005</a></li>
   <li>|</li>
-  <li><a href="#2004">2014</a></li>
+  <li><a href="#2004">2004</a></li>
   <li>|</li>
-  <li><a href="#2003">2013</a></li>
+  <li><a href="#2003">2003</a></li>
   <li>|</li>
-  <li><a href="#2002">2012</a></li>
+  <li><a href="#2002">2002</a></li>
   <li>|</li>
-  <li><a href="#2001">2011</a></li>
+  <li><a href="#2001">2001</a></li>
 </ol>
 
 List All
@@ -559,3 +559,44 @@ List All
     <td><a href="/files/Decision-ChanTaiMoyanor-AB1996.552&AB1996.628.pdf" target="_blank"></a>(41.8KB)</td>
   </tr>
 </table>
+
+<ol>
+  <li><a href="#2019">2019</a></li>
+  <li>|</li>
+  <li><a href="#2018">2018</a></li>
+  <li>|</li>
+  <li><a href="#2017">2017</a></li>
+  <li>|</li>
+  <li><a href="#2016">2016</a></li>
+  <li>|</li>
+  <li><a href="#2015">2015</a></li>
+  <li>|</li>
+  <li><a href="#2014">2014</a></li>
+  <li>|</li>
+  <li><a href="#2013">2013</a></li>
+  <li>|</li>
+  <li><a href="#2012">2012</a></li>
+  <li>|</li>
+  <li><a href="#2011">2011</a></li>
+  <li>|</li>
+  <li><a href="#2010">2010</a></li>
+  <br>
+  <li><a href="#2009">2009</a></li>
+  <li>|</li>
+  <li><a href="#2008">2008</a></li>
+  <li>|</li>
+  <li><a href="#2007">2007</a></li>
+  <li>|</li>
+  <li><a href="#2006">2006</a></li>
+  <li>|</li>
+  <li><a href="#2005">2005</a></li>
+  <li>|</li>
+  <li><a href="#2004">2004</a></li>
+  <li>|</li>
+  <li><a href="#2003">2003</a></li>
+  <li>|</li>
+  <li><a href="#2002">2002</a></li>
+  <li>|</li>
+  <li><a href="#2001">2001</a></li>
+</ol>
+
