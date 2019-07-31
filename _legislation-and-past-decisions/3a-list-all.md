@@ -37,7 +37,7 @@ li{
   <li><a href="#2011">2011</a></li>
   <li>|</li>
   <li><a href="#2010">2010</a></li>
-</ol><br>
+</ol>
 
 List All
 ---
