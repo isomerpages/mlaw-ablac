@@ -209,7 +209,7 @@ List All
     <td>AB 1999.064</td>
     <td>Tay Peng See & anor</td>
     <td><a name="2005"></a>19 Jul 2005</td>
-    <td><a href="/files/Decision-TayPengSee&anor-AB1999.064.pdf" target="_blank"></a>(KB)</td>
+    <td><a href="/files/Decision-TayPengSee&anor-AB1999.064.pdf" target="_blank"></a>(23.5KB)</td>
   </tr>
   <tr>
     <td>Case Law</td>
@@ -321,7 +321,7 @@ List All
     <td>AB 1999.070</td>
     <td>Hia Soo Boon & anor</td>
     <td><a name="2004"></a>17 Sep 2004</td>
-    <td><a href="/files/Decision-HiaSoonBoon&anor-AB1999.070.pdf" target="_blank"></a>(KB)</td>
+    <td><a href="/files/Decision-HiaSoonBoon&anor-AB1999.070.pdf" target="_blank"></a>(71.8KB)</td>
   </tr>
   <tr>
     <td>Case Law</td>
