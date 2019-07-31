@@ -398,7 +398,7 @@ List All
     <td>AB 2001.089</td>
     <td>Peng Hiang Food Industries Pte Ltd</td>
     <td><a name="2003"></a>4 Feb 2003</td>
-    <td><a href="/files/Decision-PengHiangFoodIndustriesPteLtd-AB2001.089.pdf" target="_blank"></a><(99.9KB)</td>
+    <td><a href="/files/Decision-PengHiangFoodIndustriesPteLtd-AB2001.089.pdf" target="_blank"></a>(99.9KB)</td>
   </tr>
   <tr>
     <td>Landmark Case</td>
