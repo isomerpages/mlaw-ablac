@@ -264,7 +264,7 @@ List All
     <td>Case Law</td>
     <td>AB 2003.001</td>
     <td>Kallang Warehousing Co Pte Ltd</td>
-    <td><a name="2005">31 Jan 2005</td>
+    <td><a name="2005"></a>31 Jan 2005</td>
     <td><a href="/files/Decision-KallangWarehousingCoPteLtd-AB2003.001.pdf" target="_blank"></a>(27.7KB)</td>
   </tr>
   <tr>
@@ -418,7 +418,7 @@ List All
     <td>Case Law</td>
     <td>AB 2001.081</td>
     <td>Unitra Jaya Trading Pte Ltd</td>
-    <td><a name="2002">30 Nov 2002	</td>
+    <td><a name="2002"></a>30 Nov 2002	</td>
     <td><a href="/files/Decision-UnitraJayaTradingPteLtd-AB2001.081.pdf" target="_blank"></a>(107KB)</td>
   </tr>
   <tr>
