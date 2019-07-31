@@ -400,7 +400,7 @@ List All
     <td>AB 2001.089</td>
     <td>Peng Hiang Food Industries Pte Ltd</td>
     <td>4 Feb 2003</td>
-    <td><a href="/files/Decision-PengHiangFoodIndustriesPteLtd-AB2001.089.pdf" target="_blank"></a><(99.9KB)/td>
+    <td><a href="/files/Decision-PengHiangFoodIndustriesPteLtd-AB2001.089.pdf" target="_blank"></a><(99.9KB)</td>
   </tr>
   <tr>
     <td>Landmark Case</td>
@@ -462,7 +462,7 @@ List All
     <td>Case Law</td>
     <td>AB 2001.088</td>
     <td>Lau Huai Eng</td>
-    <td><a name="2002">10 Apr 2002	</td>
+      <td><a name="2002"></a>10 Apr 2002</td>
     <td><a href="/files/Decision-LauHuaiEng-AB2001.088.pdf" target="_blank"></a>(70.2KB)</td>
   </tr>
   <tr>
