@@ -39,8 +39,6 @@ li{
   <li><a href="#2010">2010</a></li>
 </ol><br>
 
-<table>
-
 List All
 ---
 
