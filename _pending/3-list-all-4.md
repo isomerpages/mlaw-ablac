@@ -1,10 +1,9 @@
 ---
 layout: leftnav-page-content
 title: List All
-permalink: /past-decision/list-all-4/
+permalink: /pending/list-all-4/
 breadcrumb: List All
-collection_name: legislation-and-past-decisions
-second_nav_title: "Past Decisions"
+collection_name: pending
 ---
 
 Case Law
