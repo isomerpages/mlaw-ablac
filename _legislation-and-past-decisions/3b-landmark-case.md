@@ -23,7 +23,7 @@ Landmark Case
     <td>AB 2005.065</td>
     <td>McDonald's Restaurants Pte Ltd</td>
     <td>8 Sep 2006</td>
-    <td><a href="/files/Decision-McDonaldsRestaurantsPteLtd-AB2005.065.pdf"></a></td>
+    <td><a href="/files/Decision-McDonald'sRestaurantsPteLtd-AB2005.065.pdf"></a></td>
   </tr>
   <tr>
     <td>Landmark Case</td>
