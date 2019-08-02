@@ -44,7 +44,7 @@ Landmark Case
     <td>AB 1996.374	</td>
     <td>Mustaq Ahmad @ Mushtaq Ahmad (s/o Mustafa)</td>
     <td>25 Apr 2002</td>
-    <td><a href="/files/Decision-MustaqAhmad@MushtaqAhmad(sonofMustaffa)-22January2002-AB1996.374.pdf"></a></td>
+    <td><a href="/files/Decision-MustaqAhmadMushtaqAhmad(sonofMustaffa)-22January2002-AB1996.374.pdf"></a></td>
   </tr>
   <tr>
     <td>Landmark Case</td>
