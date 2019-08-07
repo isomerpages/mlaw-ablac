@@ -446,13 +446,6 @@ Case Law
     <td>28 Apr 2001</td>
     <td><a href="/files/Decision-TohKaiHoo-AB1999.098.pdf" target="_blank"></a></td>
   </tr>
-    <tr>
-    <td><b>Category</b></td>
-    <td><b>Title of Appeal</b></td>
-    <td><b>Parties (Other Than Collector)</b></td>
-    <td><b>Date of Decision</b></td>
-    <td><b>Link</b></td>
-  </tr>
   <tr>
     <td>Case Law</td>
     <td>AB 1999.118</td>
