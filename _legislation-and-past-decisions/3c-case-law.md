@@ -7,6 +7,55 @@ collection_name: legislation-and-past-decisions
 second_nav_title: "Past Decisions"
 ---
 
+<style>
+ol{
+    list-style: none;
+    margin-left: 0;
+  }
+li{
+    display: inline;
+  }
+</style>
+
+<ol>
+  <li><a href="#2019">2019</a></li>
+  <li>|</li>
+  <li><a href="#2018">2018</a></li>
+  <li>|</li>
+  <li><a href="#2017">2017</a></li>
+  <li>|</li>
+  <li><a href="#2016">2016</a></li>
+  <li>|</li>
+  <li><a href="#2015">2015</a></li>
+  <li>|</li>
+  <li><a href="#2014">2014</a></li>
+  <li>|</li>
+  <li><a href="#2013">2013</a></li>
+  <li>|</li>
+  <li><a href="#2012">2012</a></li>
+  <li>|</li>
+  <li><a href="#2011">2011</a></li>
+  <li>|</li>
+  <li><a href="#2010">2010</a></li>
+  <br>
+  <li><a href="#2009">2009</a></li>
+  <li>|</li>
+  <li><a href="#2008">2008</a></li>
+  <li>|</li>
+  <li><a href="#2007">2007</a></li>
+  <li>|</li>
+  <li><a href="#2006">2006</a></li>
+  <li>|</li>
+  <li><a href="#2005">2005</a></li>
+  <li>|</li>
+  <li><a href="#2004">2004</a></li>
+  <li>|</li>
+  <li><a href="#2003">2003</a></li>
+  <li>|</li>
+  <li><a href="#2002">2002</a></li>
+  <li>|</li>
+  <li><a href="#2001">2001</a></li>
+</ol>
 
 Case Law
 ---
@@ -476,3 +525,42 @@ Case Law
   </tr>
 </table><br>
 
+<ol>
+  <li><a href="#2019">2019</a></li>
+  <li>|</li>
+  <li><a href="#2018">2018</a></li>
+  <li>|</li>
+  <li><a href="#2017">2017</a></li>
+  <li>|</li>
+  <li><a href="#2016">2016</a></li>
+  <li>|</li>
+  <li><a href="#2015">2015</a></li>
+  <li>|</li>
+  <li><a href="#2014">2014</a></li>
+  <li>|</li>
+  <li><a href="#2013">2013</a></li>
+  <li>|</li>
+  <li><a href="#2012">2012</a></li>
+  <li>|</li>
+  <li><a href="#2011">2011</a></li>
+  <li>|</li>
+  <li><a href="#2010">2010</a></li>
+  <br>
+  <li><a href="#2009">2009</a></li>
+  <li>|</li>
+  <li><a href="#2008">2008</a></li>
+  <li>|</li>
+  <li><a href="#2007">2007</a></li>
+  <li>|</li>
+  <li><a href="#2006">2006</a></li>
+  <li>|</li>
+  <li><a href="#2005">2005</a></li>
+  <li>|</li>
+  <li><a href="#2004">2004</a></li>
+  <li>|</li>
+  <li><a href="#2003">2003</a></li>
+  <li>|</li>
+  <li><a href="#2002">2002</a></li>
+  <li>|</li>
+  <li><a href="#2001">2001</a></li>
+</ol>
