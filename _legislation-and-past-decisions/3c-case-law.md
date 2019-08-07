@@ -160,13 +160,6 @@ Case Law
     <td><a href="/files/Decision-ChungSowSounPatrick&LohLaiFongFlorence-AB1999.071.pdf" target="_blank"></a></td>
   </tr>
   <tr>
-    <td><b>Category</b></td>
-    <td><b>Title of Appeal</b></td>
-    <td><b>Parties (Other Than Collector)</b></td>
-    <td><b>Date of Decision</b></td>
-    <td><b>Link</b></td>
-  </tr>
-  <tr>
     <td>Case Law</td>
     <td>AB 1999.055</td>
     <td>Yong Wai Wah</td>
