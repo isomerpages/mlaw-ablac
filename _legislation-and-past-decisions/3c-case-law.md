@@ -15,6 +15,9 @@ ol{
 li{
     display: inline;
   }
+.widthlength {
+    width: 160px;
+    }
 </style>
 
 <ol>
