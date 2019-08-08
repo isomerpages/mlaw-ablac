@@ -553,7 +553,7 @@ List All
   </tr>
   <tr>
     <td>Case Law</td>
-    <td>AB 1996.552&628</td>
+    <td colspan="2">AB 1996.552&628</td>
     <td>Chan Tai Moy & anor</td>
     <td><a name="2001"></a>22 Mar 2001</td>
     <td><a href="/files/Decision-ChanTaiMoyanor-AB1996.552&AB1996.628.pdf" target="_blank"></a>(41.8KB)</td>
