@@ -66,7 +66,7 @@ List All
 <table>
   <tr>
     <td><b>Category</b></td>
-    <td><b>Title of Appeal</b></td>
+    <td class="widthlength"><b>Title of Appeal</b></td>
     <td><b>Parties (Other Than Collector)</b></td>
     <td><b>Date of Decision</b></td>
     <td><b>Link</b></td>
