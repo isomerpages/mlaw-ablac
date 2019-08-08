@@ -16,7 +16,7 @@ li {
     display: inline;
   }
 .widthlength {
-    width: 150px;
+    width: 140px;
     }
 </style>
 
