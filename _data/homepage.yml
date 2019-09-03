@@ -19,7 +19,7 @@ hero-banner: /images/hero-banner.png
 button:
   - text: Learn More
     url: https://staging-isomer-mlaw.netlify.com/
-    
+
 key-highlights:
   - title: About Us
     url: /about-us/what-we-do/
@@ -30,7 +30,6 @@ key-highlights:
   - title: Legislation and Past Decisions
     url: /legislation-and-past-decisions/list-all/
     external: true
-
 
 resources-subtitle: Appeals Process
 resources-more-button: More
