@@ -19,12 +19,12 @@ locations:
 
 # Contact Us
 column:
-  - title: Contact Numbers:
+  - title: Contact Numbers
     content:
-    - line: +65 6332 3906
-    - line: ab_enquiry@ab.gov.sg (email)
+    - line: +65 6332 3906 or +65 6332 5237
+    - line: ab_enquiry@ab.gov.sg (email) or ab_ephc@ab.gov.sg (email)
     # If you have an email, put (email) after the actual email
 
   - title: Fax
     content:
-    - line: 65 6883 0530
+    - line: +65 6883 0530
