@@ -363,7 +363,7 @@ Case Law
     <td class="widthlength">AB 2001.066</td>
     <td>Universal Consortium Pte Ltd</td>
     <td><a name="2003"></a>5 Nov 2003</td>
-    <td><a href="/files/Decision-UniversalConsortiumPteLtd-AB2001.066.pdf" target="_blank"></a></td>
+    <td><a href="/files/Decision-UniversalConsortiumPteLtd-AB2001.066.pdf" target="_blank">127KB</a></td>
   </tr>
   <tr>
     <td>Case Law</td>
