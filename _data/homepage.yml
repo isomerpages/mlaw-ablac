@@ -18,7 +18,7 @@ hero-banner: /images/hero-banner.png
 #Call to Action Button
 button:
   - text: Learn More
-    url: https://staging-isomer-mlaw.netlify.com/
+    url: /about-us/what-we-do/
 
 key-highlights:
   - title: About Us
