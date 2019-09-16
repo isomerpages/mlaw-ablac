@@ -10,6 +10,12 @@ favicon: /images/favicon-isomer.ico
 # Agency logo
 agency-logo: /images/mlaw-logo.png
 
+
+# Google analytics
+
+google-analytics: UA-10405444-18
+
+
 # Hero Banner
 hero-title: Appeals Board<br>(Land Acquisition)
 hero-subtitle: The Appeals Board is a tribunal constituted under the Land Acquisition Act to hear appeals in respect of any award of compensation made by the Collector of Land Revenue under the Land Acquisition Act for the compulsory acquisition of land.
