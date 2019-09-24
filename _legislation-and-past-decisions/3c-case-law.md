@@ -65,8 +65,8 @@ Case Law
 
 <table>
   <tr>
-    <th><b>Category</td>
-    <th class="widthlength"><b>Title of Appeal</th>
+    <th>Category</th>
+    <th class="widthlength">Title of Appeal</th>
     <th>Parties (Other Than Collector)</th>
     <th>Date of Decision</th>
     <th>Link</th>
