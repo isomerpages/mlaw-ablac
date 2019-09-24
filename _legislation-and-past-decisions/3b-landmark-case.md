@@ -18,11 +18,11 @@ Landmark Case
 
 <table>
   <tr>
-    <td><b>Category</b></td>
-    <td class="widthlength"><b>Title of Appeal</b></td>
-    <td><b>Parties (Other Than Collector)</b></td>
-    <td><b>Date of Decision</b></td>
-    <td><b>Link</b></td>
+    <th>Category></td>
+    <th class="widthlength">Title of Appeal</th>
+    <th>Parties (Other Than Collector)</th>
+    <th>Date of Decision</th>
+    <th>Link</th>
   </tr>
   <tr>
     <td>Landmark Case</td>
