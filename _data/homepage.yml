@@ -5,35 +5,38 @@
 ##################################
 
 # Favicon
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon-minlaw.ico
 
 # Agency logo
-agency-logo: /images/isomer-logo.svg
+agency-logo: /images/mlaw-logo.png
+
+
+# Google analytics
+
+google-analytics: UA-10405444-18
+
 
 # Hero Banner
-hero-title: Hero title
-hero-subtitle: Hero subtitle
-hero-banner: /images/hero-banner.png
+hero-title: Appeals Board<br>(Land Acquisition)
+hero-subtitle: The Appeals Board is a tribunal constituted under the Land Acquisition Act to hear appeals in respect of any award of compensation made by the Collector of Land Revenue under the Land Acquisition Act for the compulsory acquisition of land.
+hero-banner: /images/Hero-Banner-Minlaw.jpg
 
 #Call to Action Button
 button:
   - text: Learn More
-    url: /who-we-are/
-    
-key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
-    external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
-    external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
+    url: /about-us/what-we-do/
 
-resources-title: Resources
-resources-subtitle: Be in the know
-resources-more-button: More Resources
-resources-more-button-url: resource-room/
+key-highlights:
+  - title: About Us
+    url: /about-us/what-we-do/
+    external: true
+  - title: Hearing Lists
+    url: /hearing-lists/hearing-list/
+    external: true
+  - title: Legislation and Past Decisions
+    url: /legislation-and-past-decisions/list-all/
+    external: true
+
+resources-subtitle: Appeals Process
+resources-more-button: More
+resources-more-button-url: /appeals-process/considerations-before-appealing/types-of-cases
