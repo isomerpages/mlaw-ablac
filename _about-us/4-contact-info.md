@@ -22,7 +22,7 @@ Fax: (65) 6883 0530
 
 Email: <ab_enquiry@ab.gov.sg> or <ab_ephc@ab.gov.sg>
 
-Website: [ablac.mlaw.gov.sg](ablac.mlaw.gov.sg)
+Website: [ab.mlaw.gov.sg](ab.mlaw.gov.sg)
 
 **Our Operating Hours:**<br>
 The Registry is open from 8.30 am to 6.00 pm from Monday to Friday. We are closed on Saturday, Sunday and public holidays.
