@@ -25,7 +25,14 @@ Landmark Case
     <th>Link</th>
   </tr>
   <tr>
-   <td>Landmark Case</td>
+    <td>Landmark Case</td>
+    <td class="widthlength">AB 2011.062</td>
+    <td>Novelty Departmental Store Pte Ltd</td>
+    <td><a name="2014"></a>18 Dec 2014</td>
+    <td><a href="/files/NoveltyDepartmentalStore18Dec2014.pdf" target="_blank"></a>532KB</td>
+  </tr>
+  <tr>
+    <td>Landmark Case</td>
     <td class="widthlength">AB 2007.047</td>
     <td>Oasis Holdings Pte Ltd</td>
     <td><a name="2009"></a>3 Jul 2009</td>
