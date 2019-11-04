@@ -26,6 +26,27 @@ Landmark Case
   </tr>
   <tr>
     <td>Landmark Case</td>
+    <td class="widthlength">AB 2012.036</td>
+    <td>YCH Distripark Pte. Ltd.</td>
+    <td><a name="2019"></a>16 May 2019</td>
+    <td><a href="/files/AB2012.036-YCHDistriparkPte.Ltd.16May2019.pdf" target="_blank"></a>666KB</td>
+  </tr>
+  <tr>
+    <td>Landmark Case</td>
+    <td class="widthlength">AB 2011.062</td>
+    <td>Novelty Departmental Store Pte Ltd</td>
+    <td><a name="2014"></a>18 Dec 2014</td>
+    <td><a href="/files/NoveltyDepartmentalStore18Dec2014.pdf" target="_blank"></a>532KB</td>
+  </tr>
+  <tr>
+    <td>Landmark Case</td>
+    <td class="widthlength">AB 2007.047</td>
+    <td>Oasis Holdings Pte Ltd</td>
+    <td><a name="2009"></a>3 Jul 2009</td>
+    <td><a href="/files/Decision-OasisHoldingsPteLtd-AB2007.047.pdf" target="_blank"></a>214KB</td>
+  </tr>
+  <tr>
+    <td>Landmark Case</td>
     <td class="widthlength">AB 2005.065</td>
     <td>McDonald's Restaurants Pte Ltd</td>
     <td>8 Sep 2006</td>
