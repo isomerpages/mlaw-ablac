@@ -11,9 +11,9 @@ Pre-Hearing Conference
 
 **Registrar's Circular Notice**
 
-[PHC 16/2019 - 8 Jan 2020](/files/Phc162019-8Jan2020.pdf)(594KB)
+[PHC 02/2020 - 4 Mar 2020](/files/Phc022020-4Mar2020.pdf)(594KB)
 
-[PHC 01/2020 - 8 Jan 2020](/files/Phc012020-8Jan2020.pdf)(594KB)
+[PHC 03/2020 - 4 Mar 2020](/files/Phc032020-4Mar2020.pdf)(594KB)
 
 [C-PHC 1/2020 - 15 Jan 2020](/files/C-Phc012020-15Jan2020.pdf)(594KB)
 
