@@ -10,7 +10,7 @@ collection_name: about-us
 Organisation Structure
 ---
 The Commissioner and the Deputy Commissioner are appointed by the President. All Commissioners that have been appointed were either sitting or retired judges or judicial commissioners of the Supreme Court.
-With effect from 1 January 2015, Mr Chia Wee Kiat, the Deputy Presiding Judge and Registrar of the Family Justice Courts, was appointed the Commissioner of Appeals.  Mr Tan Pheng Wee Christopher, a Senior Assistant Registrar of the Supreme Court, was appointed Deputy Commissioner of Appeals with effect from 1 January 2017.
+With effect from 1 January 2015, Mr Chia Wee Kiat, the Deputy Presiding Judge of the Family Justice Courts, was appointed the Commissioner of Appeals.  Mr Tan Pheng Wee Christopher, the Registrar of the State Courts, was appointed Deputy Commissioner of Appeals with effect from 1 January 2017.
 
 The Honourable Justice Buttrose : 1967 - 1968<br>
 The Honourable Justice Choor Singh : 1967 - 1979<br>
