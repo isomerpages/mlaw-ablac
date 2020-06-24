@@ -15,6 +15,6 @@ Pre-Hearing Conference
 
 [PHC 11/2020 - 15 July 2020](/files/Phc112020-15July2020.pdf)(594KB)
 
-[C-PHC 7/2020 - 24 June 2020](/files/C-Phc072020-24June2020.pdf)(594KB)
+[C-PHC 8/2020 - 22 July 2020](/files/C-Phc082020-22July2020.pdf)(594KB)
 
 
