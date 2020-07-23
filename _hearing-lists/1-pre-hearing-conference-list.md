@@ -11,9 +11,9 @@ Pre-Hearing Conference
 
 **Registrar's Circular Notice**
 
-[PHC 12/2020 - 29 July 2020](/files/Phc122020-29July2020.pdf)(594KB)
-
 [PHC 13/2020 - 12 August 2020](/files/Phc132020-12Aug2020.pdf)(594KB)
+
+[PHC 14/2020 - 26 August 2020](/files/Phc142020-26Aug2020.pdf)(594KB)
 
 [C-PHC 9/2020 - 13 August 2020](/files/C-Phc092020-13Aug2020.pdf)(594KB)
 
