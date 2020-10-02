@@ -1,11 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Practice Directions
+title: 'Practice Directions'
 permalink: /legislation-and-past-decisions/practice-directions/
-breadcrumb: Practice Directions
-collection_name: legislation-and-past-decisions
+breadcrumb: 'Practice Directions'
 
 ---
+
 
 Practice Directions
 ---
