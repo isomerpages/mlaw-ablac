@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Costs of Appeal
+title: 'Costs of Appeal'
 permalink: /faqs/costs-of-appeal/
-breadcrumb: Costs of Appeal
-collection_name: faqs
+breadcrumb: 'Costs of Appeal'
+
 ---
+
 
 Costs of Appeal
 ---
