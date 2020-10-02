@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Mediation in Land Acquisition Appeals Scheme
+title: 'Mediation in Land Acquisition Appeals Scheme'
 permalink: /appeals-process/mediation-in-land-acquisition-appeals-scheme/
-breadcrumb: Mediation in Land Acquisition Appeals Scheme
-collection_name: appeals-process
-second_nav_title: Hearing of the Appeal
+breadcrumb: 'Mediation in Land Acquisition Appeals Scheme'
+third_nav_title: 'Hearing of the Appeal'
+
 ---
+
 
 Mediation in Land Acquisition Appeals Scheme
 ---
