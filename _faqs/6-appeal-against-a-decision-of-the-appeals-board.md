@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Appeal Against a Decision of the Appeals Board
+title: 'Appeal Against a Decision of the Appeals Board'
 permalink: /faqs/appeal-against-a-decision-of-the-appeals-board/
-breadcrumb: Appeal Against a Decision of the Appeals Board
-collection_name: faqs
+breadcrumb: 'Appeal Against a Decision of the Appeals Board'
+
 ---
+
 
 Appeal Against a Decision of the Appeals Board
 ---
