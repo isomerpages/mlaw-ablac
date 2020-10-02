@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Landmark Case
+title: 'Landmark Case'
 permalink: /legislation-and-past-decisions/landmark-case/
-breadcrumb: Landmark Case
-collection_name: legislation-and-past-decisions
-second_nav_title: "Past Decisions"
+breadcrumb: 'Landmark Case'
+third_nav_title: 'Past Decisions'
+
 ---
+
 
 Landmark Case
 ---
