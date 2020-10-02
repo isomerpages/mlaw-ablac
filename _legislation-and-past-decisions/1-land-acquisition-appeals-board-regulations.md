@@ -1,11 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Land Acquisition (Appeals Board) Regulations
+title: 'Land Acquisition (Appeals Board) Regulations'
 permalink: /legislation-and-past-decisions/land-acquisition-appeals-board-regulations/
-breadcrumb: Land Acquisition (Appeals Board) Regulations
-collection_name: legislation-and-past-decisions
+breadcrumb: 'Land Acquisition (Appeals Board) Regulations'
 
 ---
+
 
 Land Acquisition (Appeals Board) Regulations
 ---
