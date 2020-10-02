@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Miscellaneous
 permalink: /faqs/miscellaneous/
 breadcrumb: Miscellaneous
-collection_name: faqs
+
 ---
+
 
 Miscellaneous
 ---
