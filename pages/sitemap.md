@@ -1,9 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Sitemap
 permalink: /sitemap/
 breadcrumb: Sitemap
+
 ---
+
 
 Sitemap
 ---
