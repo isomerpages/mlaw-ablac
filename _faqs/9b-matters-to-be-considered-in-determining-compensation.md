@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Matters to be considered in determining compensation
+title: 'Matters to be considered in determining compensation'
 permalink: /faqs/matters-to-be-considered-in-determining-compensation/
-breadcrumb: Matters to be considered in determining compensation
-collection_name: faqs
+breadcrumb: 'Matters to be considered in determining compensation'
+
 ---
+
 
 Matters to be considered in determining compensation
 ---
