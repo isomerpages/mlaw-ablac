@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Appeal Deposit
+title: 'Appeal Deposit'
 permalink: /faqs/appeal-deposit/
-breadcrumb: Appeal Deposit
-collection_name: faqs
+breadcrumb: 'Appeal Deposit'
+
 ---
+
 
 Appeal Deposit
 ---
