@@ -17,8 +17,8 @@ sections:
                 - title: 'Legislation & Decisions'
                   url: /legislation-and-past-decisions/list-all/
     - resources:
-          title: null
-          subtitle: 'Appeals Process'
+          subtitle: null
+          title: 'Appeals Process'
           button: More
           url: /appeals-process/considerations-before-appealing/types-of-cases
 
