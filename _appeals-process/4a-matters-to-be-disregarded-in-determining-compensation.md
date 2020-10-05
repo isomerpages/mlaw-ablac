@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Matters to be disregarded in determining compensation
+title: 'Matters to be disregarded in determining compensation'
 permalink: /appeals-process/matters-to-be-disregarded-in-determining-compensation/
-breadcrumb: Matters to be disregarded in determining compensation
-collection_name: appeals-process
-second_nav_title: Decision by the Board 
+breadcrumb: 'Matters to be disregarded in determining compensation'
+third_nav_title: 'Decision by the Board'
+
 ---
+
 
 Matters to be disregarded in determining compensation
 ---

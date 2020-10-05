@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Useful Links
+title: 'Useful Links'
 permalink: /useful-links/
-breadcrumb: Terms of Use
+breadcrumb: 'Terms of Use'
+
 ---
+
 
 Useful Links
 ---

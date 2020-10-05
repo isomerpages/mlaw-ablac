@@ -1,11 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Digital Transcription Services
+title: 'Digital Transcription Services'
 permalink: /services/digital-transcription-services/
-breadcrumb: Digital Transcription Services
-collection_name: services
+breadcrumb: 'Digital Transcription Services'
 
 ---
+
 
 Digital Transcription Services
 ---

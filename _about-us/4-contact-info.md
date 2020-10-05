@@ -1,11 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Contact Info
+title: 'Contact Info'
 permalink: /about-us/contact-info/
-breadcrumb: Contact info
-collection_name: about-us 
+breadcrumb: 'Contact info'
 
 ---
+
 
 Contact Info
 ---

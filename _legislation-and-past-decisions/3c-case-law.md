@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Case Law
+title: 'Case Law'
 permalink: /legislation-and-past-decisions/case-law/
-breadcrumb: Case Law
-collection_name: legislation-and-past-decisions
-second_nav_title: "Past Decisions"
+breadcrumb: 'Case Law'
+third_nav_title: 'Past Decisions'
+
 ---
+
 
 <style>
 ol{

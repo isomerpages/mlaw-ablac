@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Withdrawal of Appeal
+title: 'Withdrawal of Appeal'
 permalink: /appeals-process/withdrawal-of-appeal/
-breadcrumb: Withdrawal of Appeal
-collection_name: appeals-process
-second_nav_title: Pre-Hearing Conference
+breadcrumb: 'Withdrawal of Appeal'
+third_nav_title: 'Pre-Hearing Conference'
+
 ---
+
 
 Withdrawal of Appeal
 ---

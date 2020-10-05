@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Hearing of Appeal 
+title: 'Hearing of Appeal'
 permalink: /appeals-process/considerations-before-appealing/hearing-of-appeal
-breadcrumb: Hearing of Appeal  
-collection_name: appeals-process
-second_nav_title: "Considerations Before Appealing"
+breadcrumb: 'Hearing of Appeal'
+third_nav_title: 'Considerations Before Appealing'
+
 ---
+
 Hearing of Appeal
 ---
 The Registrar fixes a time and place for the hearing of the appeal and gives at least 14 days' notice to the parties. <br>

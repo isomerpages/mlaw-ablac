@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Pre-Hearing Conference
+title: 'Pre-Hearing Conference'
 permalink: /faqs/pre-hearing-conference/
-breadcrumb: Pre-Hearing Conference
-collection_name: faqs
+breadcrumb: 'Pre-Hearing Conference'
+
 ---
+
 
 Pre-Hearing Conference
 ---

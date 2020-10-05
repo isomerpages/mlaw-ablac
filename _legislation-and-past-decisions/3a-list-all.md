@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: List All
+title: 'List All'
 permalink: /legislation-and-past-decisions/list-all/
-breadcrumb: List All
-collection_name: legislation-and-past-decisions
-second_nav_title: "Past Decisions"
+breadcrumb: 'List All'
+third_nav_title: 'Past Decisions'
+
 ---
+
 
 <style>
 ol {

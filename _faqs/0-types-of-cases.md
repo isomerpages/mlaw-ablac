@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Types of Cases
+title: 'Types of Cases'
 permalink: /faqs/types-of-cases/
-breadcrumb: Types of Cases
-collection_name: faqs
+breadcrumb: 'Types of Cases'
+
 ---
+
 
 Types of Cases
 ---
