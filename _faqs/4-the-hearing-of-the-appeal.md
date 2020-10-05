@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Hearing of the Appeal
+title: 'Hearing of the Appeal'
 permalink: /faqs/the-hearing-of-the-appeal/
-breadcrumb: Hearing of the Appeal
-collection_name: faqs
+breadcrumb: 'Hearing of the Appeal'
+
 ---
+
 
 Hearing of the Appeal
 ---

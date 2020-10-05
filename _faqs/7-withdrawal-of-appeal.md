@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Withdrawal of Appeal
+title: 'Withdrawal of Appeal'
 permalink: /faqs/withdrawal-of-appeal/
-breadcrumb: Withdrawal of Appeal
-collection_name: faqs
+breadcrumb: 'Withdrawal of Appeal'
+
 ---
+
 
 Withdrawal of Appeal
 ---

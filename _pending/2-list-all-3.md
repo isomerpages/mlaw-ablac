@@ -1,11 +1,10 @@
 ---
-layout: leftnav-page-content
-title: List All
+title: 'List All'
 permalink: /pending/list-all-3/
-breadcrumb: List All
-collection_name: pending
+breadcrumb: 'List All'
 
 ---
+
 
 List All
 ---

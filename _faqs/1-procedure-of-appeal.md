@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Procedure of Appeal
+title: 'Procedure of Appeal'
 permalink: /faqs/procedure-of-appeal/
-breadcrumb: Procedure of Appeal
-collection_name: faqs
+breadcrumb: 'Procedure of Appeal'
+
 ---
+
 
 Procedure of Appeal
 ---

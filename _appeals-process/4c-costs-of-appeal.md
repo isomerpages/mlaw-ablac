@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Costs of Appeal
+title: 'Costs of Appeal'
 permalink: /appeals-process/costs-of-appeal/
-breadcrumb: Costs of Appeal
-collection_name: appeals-process
-second_nav_title: Decision by the Board 
+breadcrumb: 'Costs of Appeal'
+third_nav_title: 'Decision by the Board'
+
 ---
+
 
 Costs of Appeal
 ---

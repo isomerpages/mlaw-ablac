@@ -1,11 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Fees
 permalink: /services/fees/
 breadcrumb: Fees
-collection_name: services
 
 ---
+
 
 Fees
 ---

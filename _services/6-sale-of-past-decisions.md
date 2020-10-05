@@ -1,11 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Sale of Past Decisions
+title: 'Sale of Past Decisions'
 permalink: /services/sale-of-past-decisions/
-breadcrumb: Sale Of Past Decisions
-collection_name: services
+breadcrumb: 'Sale Of Past Decisions'
 
 ---
+
 
 Sale of Past Decisions
 ---

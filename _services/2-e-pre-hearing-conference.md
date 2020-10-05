@@ -1,11 +1,10 @@
 ---
-layout: leftnav-page-content
-title: e-Pre-Hearing Conference
+title: 'e-Pre-Hearing Conference'
 permalink: /services/e-pre-hearing-conference/
-breadcrumb: e-Pre-Hearing Conference
-collection_name: services
+breadcrumb: 'e-Pre-Hearing Conference'
 
 ---
+
 
 e-Pre-Hearing Conference
 ---

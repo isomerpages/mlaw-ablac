@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Digital Transcription Services
+title: 'Digital Transcription Services'
 permalink: /appeals-process/digital-transcription-services/
-breadcrumb: Digital Transcription Services
-collection_name: appeals-process
-second_nav_title: Hearing of the Appeal
+breadcrumb: 'Digital Transcription Services'
+third_nav_title: 'Hearing of the Appeal'
+
 ---
+
 
 Digital Transcription Services
 ---

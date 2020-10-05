@@ -1,11 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Land Acquisition Act
+title: 'Land Acquisition Act'
 permalink: /legislation-and-past-decisions/land-acquistion-act/
-breadcrumb: Land Acquisition Act
-collection_name: legislation-and-past-decisions
+breadcrumb: 'Land Acquisition Act'
 
 ---
+
 
 Land Acquisition Act
 ---

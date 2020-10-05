@@ -1,10 +1,10 @@
 ---
-layout: simple-page
 title: Timeline
 permalink: /faqs/timeline
 breadcrumb: Timeline
-collection_name: faqs
+
 ---
+
 
 Timeline
 ---

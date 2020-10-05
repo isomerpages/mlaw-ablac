@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Pre-Hearing Conference
+title: 'Pre-Hearing Conference'
 permalink: /appeals-process/pre-hearing-conference/
-breadcrumb: Pre-Hearing Conference
-collection_name: appeals-process
-second_nav_title: Pre-Hearing Conference
+breadcrumb: 'Pre-Hearing Conference'
+third_nav_title: 'Pre-Hearing Conference'
+
 ---
+
 
 Pre-Hearing Conference
 ---

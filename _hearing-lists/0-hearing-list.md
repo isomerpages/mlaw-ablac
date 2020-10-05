@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Hearing List
+title: 'Hearing List'
 permalink: /hearing-lists/hearing-list/
-breadcrumb: Hearing List
-collection_name: hearing-lists
+breadcrumb: 'Hearing List'
+
 ---
+
 
 Hearing List
 ---
