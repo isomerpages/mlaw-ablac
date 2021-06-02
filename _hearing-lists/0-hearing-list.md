@@ -11,5 +11,5 @@ Hearing List
 
 **Hearing Circular**
 
-[TD 02A/2019](/files/CircularTD02A2019-MrOeiChoonGuanErnie-27Mar19.pdf)(103KB)
+[TD 01/2021](/files/CircularTD012021-MrTanHweeKheng-24Jun21.pdf)(103KB)
 
