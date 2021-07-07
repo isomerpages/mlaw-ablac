@@ -11,5 +11,5 @@ Pre-Hearing Conference
 
 **Registrar's Circular Notice**
 
-[PHC 07/2021 - 7 July 2021](/files/Phc072021-07July2021.pdf)(594KB)
+[PHC 09/2021 - 28 July 2021](/files/Phc092021-28July2021.pdf)(594KB)
 
