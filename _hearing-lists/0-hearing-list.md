@@ -11,5 +11,5 @@ Hearing List
 
 **Hearing Circular**
 
-[TD 01/2021_Rev1](/files/CircularTD012021_Rev1-MrTanHweeKheng-24Jun21.pdf)(103KB)
+[TD 02/2021](/files/CircularTD022021-MrTanHweeKheng-06Oct21.pdf)(103KB)
 
