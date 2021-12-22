@@ -21,6 +21,8 @@ li {
 </style>
 
 <ol>
+  <li><a href="#2021">2021</a></li>
+  <li>|</li>
   <li><a href="#2019">2019</a></li>
   <li>|</li>
   <li><a href="#2018">2018</a></li>
@@ -72,6 +74,13 @@ List All
     <th>Link</th>
   </tr>
   <tr>
+    <td>Case Law</td>
+    <td class="widthlength">AB 2019.006</td>
+    <td>Tan Hwee Kheng</td>
+    <td><a name="2021"></a>22 Dec 2021</td>
+    <td><a href="/files/AB2019.006-TanHweeKheng22Dec2021.pdf"></a>(666KB)</td>  
+  </tr>  
+  <tr>    
     <td>Case Law</td>
     <td class="widthlength">AB 2012.036</td>
     <td>YCH Distripark Pte. Ltd.</td>
@@ -564,6 +573,8 @@ List All
 </table>
 
 <ol>
+  <li><a href="#2021">2021</a></li>
+  <li>|</li> 
   <li><a href="#2019">2019</a></li>
   <li>|</li>
   <li><a href="#2018">2018</a></li>
