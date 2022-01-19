@@ -11,5 +11,5 @@ Pre-Hearing Conference
 
 **Registrar's Circular Notice**
 
-[PHC 01/2022 - 19 January 2022](/files/Phc012022-19Jan2022.pdf)(594KB)
+[PHC 02/2022 - 2 March 2022](/files/Phc022022-02Mar2022.pdf)(594KB)
 
