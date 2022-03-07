@@ -1,0 +1,12 @@
+collections:
+  services:
+    output: true
+    order:
+      - hearing-of-appeal.md
+      - pre-hearing-conference.md
+      - e-pre-hearing-conference.md
+      - digital-transcription-services.md
+      - processing-of-court-documents.md
+      - mediation-in-land-acquisition-appeals-scheme.md
+      - sale-of-past-decisions.md
+      - fees.md
