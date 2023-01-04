@@ -8,7 +8,6 @@ Pre-Hearing Conference
 
 **Registrar's Circular Notice**
 
-[PHC 01/2023 - 1 February 2023](/files/Phc012023-01Feb2023.pdf)
+[DC-PHC 01/2023 - 12 January 2023](/files/Dc-Phc012023-12Jan2023.pdf)
 
-[PHC 02/2023 - 1 February 2023](/files/Phc022023-01Feb2023.pdf)
-
+[PHC 03/2023 - 1 March 2023](/files/Phc032023-01Mar2023.pdf)
