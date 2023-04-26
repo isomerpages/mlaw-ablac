@@ -1,6 +1,6 @@
 ---
 title: Fees
-permalink: /appeals-process/considerations-before-appealing/fees
+permalink: /appeals-process/considerations-before-appealing/fees/
 breadcrumb: Fees
 third_nav_title: 'Considerations Before Appealing'
 

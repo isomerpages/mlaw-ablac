@@ -1,6 +1,6 @@
 ---
 title: Miscellaneous
-permalink: /appeals-process/considerations-before-appealing/miscellaneous
+permalink: /appeals-process/considerations-before-appealing/miscellaneous/
 breadcrumb: Miscellaneous
 third_nav_title: 'Considerations Before Appealing'
 
