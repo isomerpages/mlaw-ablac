@@ -1,6 +1,6 @@
 ---
 title: 'Types of Cases'
-permalink: /appeals-process/considerations-before-appealing/types-of-cases
+permalink: /appeals-process/considerations-before-appealing/types-of-cases/
 breadcrumb: 'Types of Cases'
 third_nav_title: 'Considerations Before Appealing'
 

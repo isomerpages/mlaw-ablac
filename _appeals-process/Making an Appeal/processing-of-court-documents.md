@@ -1,6 +1,6 @@
 ---
 title: 'Processing of Court Documents'
-permalink: /appeals-process/making-an-appeal/processing-of-court-documents
+permalink: /appeals-process/making-an-appeal/processing-of-court-documents/
 breadcrumb: 'Processing of Court Documents'
 third_nav_title: 'Making an Appeal'
 

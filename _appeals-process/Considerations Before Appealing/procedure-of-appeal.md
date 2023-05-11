@@ -1,6 +1,6 @@
 ---
 title: 'Procedure of Appeal'
-permalink: /appeals-process/considerations-before-appealing/procedure-of-appeal
+permalink: /appeals-process/considerations-before-appealing/procedure-of-appeal/
 breadcrumb: 'Procedure of Appeal'
 third_nav_title: 'Considerations Before Appealing'
 

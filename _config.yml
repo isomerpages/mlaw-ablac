@@ -18,8 +18,8 @@ defaults:
       path: ""
     values:
       layout: page
-staging: https://mlaw-ablac-staging.netlify.com/,
-prod: https://mlaw-ablac-prod.netlify.com/
+staging: https://staging.d22l77zpqkkmie.amplifyapp.com/
+prod: https://master.d22l77zpqkkmie.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets

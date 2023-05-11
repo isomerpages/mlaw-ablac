@@ -1,6 +1,6 @@
 ---
 title: 'Hearing of Appeal'
-permalink: /appeals-process/considerations-before-appealing/hearing-of-appeal
+permalink: /appeals-process/considerations-before-appealing/hearing-of-appeal/
 breadcrumb: 'Hearing of Appeal'
 third_nav_title: 'Considerations Before Appealing'
 

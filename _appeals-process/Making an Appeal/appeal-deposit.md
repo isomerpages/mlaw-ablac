@@ -1,6 +1,6 @@
 ---
 title: 'Appeal Deposit'
-permalink: /appeals-process/making-an-appeal/appeal-deposit
+permalink: /appeals-process/making-an-appeal/appeal-deposit/
 breadcrumb: 'Appeal Deposit'
 third_nav_title: 'Making an Appeal'
 

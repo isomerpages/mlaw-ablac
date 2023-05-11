@@ -1,6 +1,6 @@
 ---
 title: Timeline
-permalink: /faqs/timeline
+permalink: /faqs/timeline/
 breadcrumb: Timeline
 
 ---
