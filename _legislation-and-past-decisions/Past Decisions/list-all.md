@@ -73,7 +73,14 @@ List All
     <th>Link</th>
   </tr>
   <tr>
-    <td>Case Law</td>
+		<td>Case Law</td>
+    <td class="widthlength">AB 2018.005</td>
+    <td>Rigoh Fishery Pte Ltd</td>
+    <td><a name="2023"></a>1 Nov 2023</td>
+    <td><a href="/files/ab2018005rigohfisherypteltd01nov2023.pdf"></a>666KB</td>
+	</tr>  
+  <tr> 
+	  <td>Case Law</td>
     <td class="widthlength">AB 2019.006</td>
     <td>Tan Hwee Kheng</td>
     <td><a name="2021"></a>22 Dec 2021</td>
