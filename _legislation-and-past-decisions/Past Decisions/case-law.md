@@ -1,12 +1,9 @@
 ---
-title: 'Case Law'
+title: Case Law
 permalink: /legislation-and-past-decisions/case-law/
-breadcrumb: 'Case Law'
-third_nav_title: 'Past Decisions'
-
+breadcrumb: Case Law
+third_nav_title: Past Decisions
 ---
-
-
 <style>
 ol{
     list-style: none;
@@ -21,6 +18,8 @@ li{
 </style>
 
 <ol>
+	<li><a href="#2023">2023</a></li>
+  <li>|</li>    
   <li><a href="#2021">2021</a></li>
   <li>|</li>    
   <li><a href="#2019">2019</a></li>
@@ -66,7 +65,7 @@ Case Law
 ---
 
 <table>
-  <tr>
+  <tbody><tr>
     <th>Category</th>
     <th class="widthlength">Title of Appeal</th>
     <th>Parties (Other Than Collector)</th>
@@ -74,6 +73,13 @@ Case Law
     <th>Link</th>
   </tr>
   <tr>
+		<td>Case Law</td>
+    <td class="widthlength">AB 2018.005</td>
+    <td>Rigoh Fishery Pte Ltd</td>
+    <td><a name="2023"></a>1 Nov 2023</td>
+    <td><a href="/files/ab2018005rigohfisherypteltd01nov2023.pdf" target="_blank"></a>666KB</td>
+  </tr>
+	<tr>
     <td>Case Law</td>
     <td class="widthlength">AB 2019.006</td>
     <td>Tan Hwee Kheng</td>
@@ -125,7 +131,7 @@ Case Law
   <tr>
     <td>Case Law</td>
     <td class="widthlength">AB 2012.049</td>
-    <td>CWT Limited & 3 ORS</td>
+    <td>CWT Limited &amp; 3 ORS</td>
     <td><a name="2014"></a>16 Dec 2014</td>
     <td><a href="/files/CWTLimited16Dec2014.pdf" target="_blank"></a>486KB</td>
   </tr>
@@ -139,21 +145,21 @@ Case Law
   <tr>
     <td>Case Law</td>
     <td class="widthlength">AB 2012.008</td>
-    <td>Lim Ngee Sing & Ong Min Chin</td>
+    <td>Lim Ngee Sing &amp; Ong Min Chin</td>
     <td><a name="2014"></a>3 Apr 2014</td>
-    <td><a href="/files/LimNgeeSing&OngMinChin.pdf" target="_blank"></a>416KB</td>
+    <td><a href="/files/LimNgeeSing&amp;OngMinChin.pdf" target="_blank"></a>416KB</td>
   </tr>
   <tr>
     <td>Case Law</td>
     <td class="widthlength">AB 2012.031	</td>
-    <td>Lo Poh Tiong & Lim Geok Hua	</td>
+    <td>Lo Poh Tiong &amp; Lim Geok Hua	</td>
     <td><a name="2013"></a>23 Dec 2013</td>
-    <td><a href="/files/LoPohTiong&LimGeokHua.pdf" target="_blank"></a>572KB</td>
+    <td><a href="/files/LoPohTiong&amp;LimGeokHua.pdf" target="_blank"></a>572KB</td>
   </tr>
   <tr>
     <td>Case Law</td>
     <td class="widthlength">AB 2011.026</td>
-    <td>Tan Kok Wah Dennis Christopher & Ong Bee Poh Michelle vs Collector of Land Revenue</td>
+    <td>Tan Kok Wah Dennis Christopher &amp; Ong Bee Poh Michelle vs Collector of Land Revenue</td>
     <td><a name="2012"></a>27 Sep 2012</td>
     <td><a href="/files/Decision-TanKokWahDennisChristopherMdmOngBeePohMichelle-AB2011.026.pdf" target="_blank"></a>149KB</td>
   </tr>
@@ -167,16 +173,16 @@ Case Law
   <tr>
     <td>Case Law</td>
     <td class="widthlength">AB 2008.002</td>
-    <td>Tan Lean Lee & Ng Ah Ewu</td>
+    <td>Tan Lean Lee &amp; Ng Ah Ewu</td>
     <td><a name="2009"></a>18 Mar 2009</td>
     <td><a href="/files/Decision-TanLeanLeeNgAhEwu-AB2008.002.pdf" target="_blank"></a>183KB</td>
   </tr>
   <tr>
     <td>Case Law</td>
     <td class="widthlength">AB 2007.037</td>
-    <td>Yap Cheng Swee & Tan Yong Kwee</td>
+    <td>Yap Cheng Swee &amp; Tan Yong Kwee</td>
     <td><a name="2008"></a>29 Aug 2008</td>
-    <td><a href="/files/Decision-YapChengSwee&TanYongKwee-AB2007.037.pdf" target="_blank"></a>169KB</td>
+    <td><a href="/files/Decision-YapChengSwee&amp;TanYongKwee-AB2007.037.pdf" target="_blank"></a>169KB</td>
   </tr>
   <tr>
     <td>Case Law</td>
@@ -216,9 +222,9 @@ Case Law
   <tr>
     <td>Case Law</td>
     <td class="widthlength">AB 1999.071</td>
-    <td>Chung Sow Soun Patrick & Loh Lai Fong Florence</td>
+    <td>Chung Sow Soun Patrick &amp; Loh Lai Fong Florence</td>
     <td><a name="2005"></a>19 Jul 2005</td>
-    <td><a href="/files/Decision-ChungSowSounPatrick&LohLaiFongFlorence-AB1999.071.pdf" target="_blank"></a>23.5KB</td>
+    <td><a href="/files/Decision-ChungSowSounPatrick&amp;LohLaiFongFlorence-AB1999.071.pdf" target="_blank"></a>23.5KB</td>
   </tr>
   <tr>
     <td>Case Law</td>
@@ -237,23 +243,23 @@ Case Law
   <tr>
     <td>Case Law</td>
     <td class="widthlength">AB 1999.064</td>
-    <td>Tay Peng See & anor</td>
+    <td>Tay Peng See &amp; anor</td>
     <td><a name="2005"></a>19 Jul 2005</td>
-    <td><a href="/files/Decision-TayPengSee&anor-AB1999.064.pdf" target="_blank"></a>23.5KB</td>
+    <td><a href="/files/Decision-TayPengSee&amp;anor-AB1999.064.pdf" target="_blank"></a>23.5KB</td>
   </tr>
   <tr>
     <td>Case Law</td>
     <td class="widthlength">AB 1999.074</td>
-    <td>Lee Kiam Hong & Ong Suat Hong</td>
+    <td>Lee Kiam Hong &amp; Ong Suat Hong</td>
     <td><a name="2005"></a>19 Jul 2005</td>
-    <td><a href="/files/Decision-LeeKiamHong&OngSuatHong-AB1999.074.pdf" target="_blank"></a>23.5KB</td>
+    <td><a href="/files/Decision-LeeKiamHong&amp;OngSuatHong-AB1999.074.pdf" target="_blank"></a>23.5KB</td>
   </tr>
   <tr>
     <td>Case Law</td>
     <td class="widthlength">AB 1999.059</td>
-    <td>Lim Choong Tong & anor</td>
+    <td>Lim Choong Tong &amp; anor</td>
     <td><a name="2005"></a>19 Jul 2005</td>
-    <td><a href="/files/Decision-LimChoongTong&anor-AB1999.059.pdf" target="_blank"></a>23.5KB</td>
+    <td><a href="/files/Decision-LimChoongTong&amp;anor-AB1999.059.pdf" target="_blank"></a>23.5KB</td>
   </tr>
   <tr>
     <td>Case Law</td>
@@ -272,9 +278,9 @@ Case Law
   <tr>
     <td>Case Law</td>
     <td class="widthlength">AB 1999.057</td>
-    <td>Wong Yeh Keong & anor</td>
+    <td>Wong Yeh Keong &amp; anor</td>
     <td><a name="2005"></a>19 Jul 2005</td>
-    <td><a href="/files/Decision-WongYehKeong&anor-AB1999.057.pdf" target="_blank"></a>23.5KB</td>
+    <td><a href="/files/Decision-WongYehKeong&amp;anor-AB1999.057.pdf" target="_blank"></a>23.5KB</td>
   </tr>
   <tr>
     <td>Case Law</td>
@@ -286,9 +292,9 @@ Case Law
   <tr>
     <td>Case Law</td>
     <td class="widthlength">AB 1999.068</td>
-    <td>Har Kong Wah & anor</td>
+    <td>Har Kong Wah &amp; anor</td>
     <td><a name="2005"></a>19 Jul 2005</td>
-    <td><a href="/files/Decision-HarKongWah&anor-AB1999.068.pdf" target="_blank"></a>23.5KB</td>
+    <td><a href="/files/Decision-HarKongWah&amp;anor-AB1999.068.pdf" target="_blank"></a>23.5KB</td>
   </tr>
   <tr>
     <td>Case Law</td>
@@ -349,9 +355,9 @@ Case Law
   <tr>
     <td>Case Law</td>
     <td class="widthlength">AB 1999.070</td>
-    <td>Hia Soo Boon & anor</td>
+    <td>Hia Soo Boon &amp; anor</td>
     <td><a name="2004"></a>17 Sep 2004</td>
-    <td><a href="/files/Decision-HiaSoonBoon&anor-AB1999.070.pdf" target="_blank"></a>71.8KB</td>
+    <td><a href="/files/Decision-HiaSoonBoon&amp;anor-AB1999.070.pdf" target="_blank"></a>71.8KB</td>
   </tr>
   <tr>
     <td>Case Law</td>
@@ -376,10 +382,10 @@ Case Law
   </tr>
   <tr>
     <td>Case Law</td>
-    <td class="widthlength">AB 2002.011&012</td>
-    <td>Tan Chwee Leng & Fenella Tang Oi Yoke</td>
+    <td class="widthlength">AB 2002.011&amp;012</td>
+    <td>Tan Chwee Leng &amp; Fenella Tang Oi Yoke</td>
     <td><a name="2003"></a>8 Oct 2003</td>
-    <td><a href="/files/Decision-TanChweeLeng&FenellaTangOiYoke-AB2002.001&002.pdf" target="_blank"></a>123KB</td>
+    <td><a href="/files/Decision-TanChweeLeng&amp;FenellaTangOiYoke-AB2002.001&amp;002.pdf" target="_blank"></a>123KB</td>
   </tr>
   <tr>
     <td>Case Law</td>
@@ -461,9 +467,9 @@ Case Law
   <tr>
     <td>Case Law</td>
     <td class="widthlength">AB 1997.087</td>
-    <td>Syed Taha bin Salim Albar & others</td>
+    <td>Syed Taha bin Salim Albar &amp; others</td>
     <td><a name="2002"></a>12 Sep 2002</td>
-    <td><a href="/files/Decision-SyedTahabinSalimAlbar&Others-AB1997.087.pdf" target="_blank"></a>120KB</td>
+    <td><a href="/files/Decision-SyedTahabinSalimAlbar&amp;Others-AB1997.087.pdf" target="_blank"></a>120KB</td>
   </tr>
   <tr>
     <td>Case Law</td>
@@ -482,9 +488,9 @@ Case Law
   <tr>
     <td>Case Law</td>
     <td class="widthlength">AB 1999.177</td>
-    <td>Ng Hui Eng & Tan Lay Tin</td>
+    <td>Ng Hui Eng &amp; Tan Lay Tin</td>
     <td><a name="2001"></a>26 May 2001</td>
-    <td><a href="/files/Decision-NgHuiEng&TanLayTin-AB1999.177.pdf" target="_blank"></a>72KB</td>
+    <td><a href="/files/Decision-NgHuiEng&amp;TanLayTin-AB1999.177.pdf" target="_blank"></a>72KB</td>
   </tr>
   <tr>
     <td>Case Law</td>
@@ -530,12 +536,12 @@ Case Law
   </tr>
   <tr>
     <td>Case Law</td>
-    <td class="widthlength">AB 1996.552&628</td>
-    <td>Chan Tai Moy & anor</td>
+    <td class="widthlength">AB 1996.552&amp;628</td>
+    <td>Chan Tai Moy &amp; anor</td>
     <td><a name="2001"></a>22 Mar 2001</td>
-    <td><a href="/files/Decision-ChanTaiMoyanor-AB1996.552&AB1996.628.pdf" target="_blank"></a>40.9KB</td>
+    <td><a href="/files/Decision-ChanTaiMoyanor-AB1996.552&amp;AB1996.628.pdf" target="_blank"></a>40.9KB</td>
   </tr>
-</table><br>
+</tbody></table><br>
 
 <ol>
   <li><a href="#2021">2021</a></li>
