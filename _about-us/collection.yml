@@ -1,0 +1,9 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - what-we-do.md
+      - our-vision-and-mission.md
+      - our-history.md
+      - organisation-structure.md
+      - contact-info.md

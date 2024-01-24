@@ -1,0 +1,6 @@
+collections:
+  hearing-lists:
+    output: true
+    order:
+      - hearing-list.md
+      - pre-hearing-conference.md

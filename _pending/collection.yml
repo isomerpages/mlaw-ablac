@@ -1,0 +1,7 @@
+collections:
+  pending:
+    output: false
+    order:
+      - list-all.md
+      - list-all.md
+      - list-all.md

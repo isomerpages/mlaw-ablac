@@ -1,0 +1,26 @@
+collections:
+  appeals-process:
+    output: true
+    order:
+      - Considerations Before Appealing/.keep
+      - Considerations Before Appealing/types-of-cases.md
+      - Considerations Before Appealing/procedure-of-appeal.md
+      - Considerations Before Appealing/hearing-of-appeal.md
+      - Considerations Before Appealing/fees.md
+      - Considerations Before Appealing/miscellaneous.md
+      - Making an Appeal/.keep
+      - Making an Appeal/appeal-deposit.md
+      - Making an Appeal/processing-of-court-documents.md
+      - Pre-Hearing Conference/.keep
+      - Pre-Hearing Conference/pre-hearing-conference.md
+      - Pre-Hearing Conference/e-pre-hearing-conference.md
+      - Pre-Hearing Conference/withdrawal-of-appeal.md
+      - Hearing of the Appeal/.keep
+      - Hearing of the Appeal/hearing-of-the-appeal.md
+      - Hearing of the Appeal/digital-transcription-services.md
+      - Hearing of the Appeal/mediation-in-land-acquisition-appeals-scheme.md
+      - Decision by the Board/.keep
+      - Decision by the Board/matters-to-be-disregarded-in-determining-compensation.md
+      - Decision by the Board/matters-to-be-considered-in-determining-compensation.md
+      - Decision by the Board/costs-of-appeal.md
+      - Decision by the Board/appeal-against-a-decision-of-the-appeals-board.md

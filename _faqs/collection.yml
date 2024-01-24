@@ -1,0 +1,16 @@
+collections:
+  faqs:
+    output: true
+    order:
+      - types-of-cases.md
+      - procedure-of-appeal.md
+      - timeline.md
+      - appeal-deposit.md
+      - pre-hearing-conference.md
+      - hearing-of-the-appeal.md
+      - costs-of-appeal.md
+      - appeal-against-a-decision-of-the-appeals-board.md
+      - withdrawal-of-appeal.md
+      - miscellaneous.md
+      - matters-to-be-disregarded-in-determining-compensation.md
+      - matters-to-be-considered-in-determining-compensation.md
