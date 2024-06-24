@@ -8,7 +8,8 @@ variant: tiptap
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
-<p>2024</p>
+<p><a href="#2024" rel="noopener noreferrer nofollow" target="_blank">2024</a>
+</p>
 </li>
 <li>
 <p>|</p>
