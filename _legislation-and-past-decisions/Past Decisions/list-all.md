@@ -193,6 +193,23 @@ variant: tiptap
 <p>Case Law</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>AB 2020.002</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ExxonMobil Asia Pacific Pte. Ltd.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21 Jun 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Case Law</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>AB 2018.005</p>
 </td>
 <td rowspan="1" colspan="1">
