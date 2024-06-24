@@ -202,7 +202,7 @@ variant: tiptap
 <p>21 Jun 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>(666KB)</p>
 </td>
 </tr>
 <tr>
