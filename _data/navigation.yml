@@ -1,0 +1,14 @@
+logo: /images/mlaw-logo.png
+links:
+    - title: 'About Us'
+      collection: about-us
+    - title: 'Appeals Process'
+      collection: appeals-process
+    - title: 'Hearing Lists'
+      collection: hearing-lists
+    - title: Forms
+      url: /forms/
+    - title: 'Legislation & Decisions'
+      collection: legislation-and-past-decisions
+    - title: Glossary
+      url: /glossary/
