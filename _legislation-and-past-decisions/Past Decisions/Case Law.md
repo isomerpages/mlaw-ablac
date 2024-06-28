@@ -20,6 +20,8 @@ li{
 </style>
 
 <ol>
+	<li><a href="#2024">2024</a></li>
+	<li>|</li>
 	<li><a href="#2023">2023</a></li>
   <li>|</li>    
   <li><a href="#2021">2021</a></li>
@@ -74,6 +76,13 @@ Case Law
     <th>Link</th>
   </tr>
   <tr>
+		<td>Case Law</td>
+		<td class="widthlength">AB 2020.002</td>
+		<td>ExxonMobil Asia Pacific Pte. Ltd.</td>
+		<td><a name="2024"></a>21 Jun 2024</td>
+		<td><a target="_blank" href="/files/AB2020_002ExxonMobilAsiaPacificPteLtd21June2024.pdf"></a></td>
+	</tr>
+		<tr>
 		<td>Case Law</td>
     <td class="widthlength">AB 2018.005</td>
     <td>Rigoh Fishery Pte Ltd</td>
