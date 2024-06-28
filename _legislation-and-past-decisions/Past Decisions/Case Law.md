@@ -80,7 +80,7 @@ Case Law
 		<td class="widthlength">AB 2020.002</td>
 		<td>ExxonMobil Asia Pacific Pte. Ltd.</td>
 		<td><a name="2024"></a>21 Jun 2024</td>
-		<td><a target="_blank" href="/files/AB2020_002ExxonMobilAsiaPacificPteLtd21June2024.pdf"></a></td>
+		<td><a target="_blank" href="/files/AB2020_002ExxonMobilAsiaPacificPteLtd21June2024.pdf"></a>349KB</td>
 	</tr>
 		<tr>
 		<td>Case Law</td>
