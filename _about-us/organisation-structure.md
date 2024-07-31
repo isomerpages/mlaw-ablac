@@ -2,10 +2,11 @@
 title: Organisation Structure
 permalink: /about-us/organisation-structure/
 breadcrumb: Organisation Structure
+variant: markdown
 ---
 Organisation Structure
 ---
-The Commissioner and the Deputy Commissioner are appointed by the President. With effect from 1 January 2023, Mr Lim Wee Ming, a District Judge of the State Courts, was appointed the Commissioner of Appeals. Mr Darryl Soh, a District Judge / Assistant Registrar of the Family Justice Courts, was appointed Deputy Commissioner of Appeals with effect from 1 January 2021.
+The Commissioner and the Deputy Commissioner are appointed by the President.  Mr Lim Wee Ming, a District Judge of the State Courts / Senior Director at the Judicial Policy Division of the Supreme Court, has been the Commissioner of Appeals with effect from 1 January 2023.  Mr Darryl Soh, an Assistant Registrar of the Supreme Court and District Judge / Assistant Registrar of the Family Justice Courts, has been the Deputy Commissioner of Appeals with effect from 1 January 2021.
 
 The Honourable Justice Buttrose : 1967 - 1968<br>
 The Honourable Justice Choor Singh : 1967 - 1979<br>
