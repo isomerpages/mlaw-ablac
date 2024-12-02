@@ -77,6 +77,12 @@ Case Law
   </tr>
   <tr>
 		<td>Case Law</td>
+		<td class="widthlength">AB 2021.008 &amp; AB 2021.009</td>
+		<td>Goh Yeok Wee &amp; Others</td>
+		<td><a name="2024"></a>2 Dec 2024</td>
+		<td><a target="_blank" href="/files/AB2021.008_AB2021.009_02Dec.pdf"></a>444KB</td>
+		</tr>		
+		<tr><td>Case Law</td>
 		<td class="widthlength">AB 2020.002</td>
 		<td>ExxonMobil Asia Pacific Pte. Ltd.</td>
 		<td><a name="2024"></a>21 Jun 2024</td>
