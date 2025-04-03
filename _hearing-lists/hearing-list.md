@@ -7,5 +7,5 @@ variant: tiptap
 <h2>Hearing List</h2>
 <p><strong>Hearing Circular</strong>
 </p>
-<p><a href="/files/TDCircularNo012024_Rev1.pdf" rel="noopener noreferrer nofollow" target="_blank">TD 01/2024_Rev1</a>
+<p><a href="/files/TD_Circular_No_01_2025.pdf" rel="noopener nofollow" target="_blank">TD 01/2025</a>
 </p>
