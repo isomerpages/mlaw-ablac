@@ -20,6 +20,8 @@ li{
 </style>
 
 <ol>
+	<li><a href="#2025">2025</a></li>
+	<li>|</li>
 	<li><a href="#2024">2024</a></li>
 	<li>|</li>
 	<li><a href="#2023">2023</a></li>
