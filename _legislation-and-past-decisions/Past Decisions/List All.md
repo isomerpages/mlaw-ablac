@@ -20,6 +20,8 @@ li {
 </style>
 
 <ol>
+	<li><a href="#2025">2025</a></li>
+	<li>|</li>
 	<li><a href="#2024">2024</a></li>
 	<li>|</li>
 	<li><a href="#2023">2023</a></li>
@@ -77,6 +79,13 @@ List All
     <th>Link</th>
   </tr>
   <tr>
+		<td>Case Law</td>
+    <td class="widthlength">AB 2023.001</td>
+		<td>Zain Bin Chik &amp; anor</td>
+		<td><a name="2025"></a>8 Aug 2025</td>
+		<td><a href="/files/AB2023_001_08Aug2025.pdf"></a>(489KB)</td>
+		</tr> 
+	<tr>
 		<td>Case Law</td>
     <td class="widthlength">AB 2021.008 &amp; AB 2021.009</td>
 		<td>Goh Yeok Wee &amp; Others</td>
