@@ -17,7 +17,7 @@ Singapore 178879<br>
 Tel: (65) 6332 3906 \ 6332 5237<br>
 Fax: (65) 6883 0530
 
-Email:  ab_enquiry@mlaw.gov.sg 
+Email:  [ab_enquiry@mlaw.gov.sg](ab_enquiry@mlaw.gov.sg)  
 
 Website: [https://ab.mlaw.gov.sg](https://ab.mlaw.gov.sg)
 
