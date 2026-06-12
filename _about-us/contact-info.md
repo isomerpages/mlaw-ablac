@@ -18,7 +18,7 @@ Tel: (65) 6332 3906 \ 6332 5237<br>
 **With effect from 1 July 2026, the above telephone numbers will no longer be in service*.<br>
 	*Please contact us at 6992 2591 or 6992 2592 instead for all future enquiries. Thank you*.
 
-Email:  ab_enquiry@mlaw.gov.sg  
+Email:  [ab_enquiry@mlaw.gov.sg](ab_enquiry@ab.gov.sg)
 
 Website: [https://ab.mlaw.gov.sg](https://ab.mlaw.gov.sg)
 
