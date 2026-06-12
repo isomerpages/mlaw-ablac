@@ -17,9 +17,9 @@ Singapore 178879<br>
 Tel: (65) 6332 3906 \ 6332 5237<br>
 Fax: (65) 6883 0530
 
-Email:  or 
+Email:  ab_enquiry@mlaw.gov.sg 
 
-Website: [ab.mlaw.gov.sg](https://ab.mlaw.gov.sg)
+Website: [https://ab.mlaw.gov.sg](https://ab.mlaw.gov.sg)
 
 **Our Operating Hours:**<br>
 The Registry is open from 8.30 am to 6.00 pm from Monday to Friday. We are closed on Saturday, Sunday and public holidays.
